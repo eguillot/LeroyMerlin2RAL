@@ -1,0 +1,4324 @@
+{
+    "colors": {
+        "fce32df2-e827-411c-a755-0009339213f5": {
+            "name": "Beige Falaise",
+            "rgbhex": "#CFBC9F",
+            "aspects": {
+                "velor": {
+                    "ref": "85364588",
+                    "url": "https://www.leroymerlin.fr/reflm/85364588"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                "8958f818-e934-4c99-b826-de1c48063980",
+                "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                "a7649e4b-62d2-4065-92dc-c58e5824f5d1"
+            ],
+            "complementary_colors": [
+                "12d7c593-b903-4949-9fac-92ca3064ba54",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea"
+            ]
+        },
+        "8199444d-8e1d-46e3-9c41-6406ca80226e": {
+            "name": "Beige Lin",
+            "rgbhex": "#DBD0C1",
+            "aspects": {
+                "velor": {
+                    "ref": "85364556",
+                    "url": "https://www.leroymerlin.fr/reflm/85364556"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e",
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "bf49d6cd-e193-436d-a782-85757eafd27c",
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340"
+            ],
+            "complementary_colors": [
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd",
+                "fe4acc5d-c89f-418c-a789-582d2573d371"
+            ]
+        },
+        "2472d035-2130-491a-934d-676e1f8eac4b": {
+            "name": "Bohemia 6",
+            "rgbhex": "#D1C4C3",
+            "aspects": {
+                "satin": {
+                    "ref": "84875092",
+                    "url": "https://www.leroymerlin.fr/reflm/84875092"
+                },
+                "velor": {
+                    "url": "https://www.leroymerlin.fr/reflm/84865061",
+                    "ref": "84865061"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "9bea77a9-2129-4e75-865b-80a45d2b8f4b",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae",
+                "a872e0a4-6e89-45c5-a59c-31541902aaec"
+            ],
+            "complementary_colors": [
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "bdddd3ca-b1f6-4c81-9e86-317f12095670"
+            ]
+        },
+        "33586940-5448-45f3-9780-138dd2b9d43e": {
+            "name": "Eva 3",
+            "rgbhex": "#C7A994",
+            "aspects": {
+                "satin": {
+                    "ref": "84875218",
+                    "url": "https://www.leroymerlin.fr/reflm/84875218"
+                },
+                "velor": {
+                    "ref": "84865148",
+                    "url": "https://www.leroymerlin.fr/reflm/84865148"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "5bc1d4c4-0626-48a6-adf7-efeff8651a1d",
+                "21225e9b-391b-4277-aab8-c66bb37f1834"
+            ],
+            "complementary_colors": [
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "de51aeea-9400-4bab-a466-e39b15b960bb"
+            ]
+        },
+        "bec20016-6974-4bf9-9715-92670418d093": {
+            "name": "Terra 4",
+            "rgbhex": "#A48D7F",
+            "aspects": {
+                "satin": {
+                    "ref": "84875034",
+                    "url": "https://www.leroymerlin.fr/reflm/84875034"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "9bea77a9-2129-4e75-865b-80a45d2b8f4b",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae",
+                "a872e0a4-6e89-45c5-a59c-31541902aaec"
+            ],
+            "complementary_colors": [
+                "21225e9b-391b-4277-aab8-c66bb37f1834",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd"
+            ]
+        },
+        "21225e9b-391b-4277-aab8-c66bb37f1834": {
+            "name": "Terra 6",
+            "rgbhex": "#DBCCBE",
+            "aspects": {
+                "satin": {
+                    "ref": "84875044",
+                    "url": "https://www.leroymerlin.fr/reflm/84875044"
+                },
+                "matt": {
+                    "ref": "84864870",
+                    "url": "https://www.leroymerlin.fr/reflm/84864870"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "33586940-5448-45f3-9780-138dd2b9d43e",
+                "5bc1d4c4-0626-48a6-adf7-efeff8651a1d"
+            ],
+            "complementary_colors": [
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "2472d035-2130-491a-934d-676e1f8eac4b"
+            ]
+        },
+        "dd731ade-bf29-4bfa-978c-41e5c60d49ed": {
+            "name": "Trench 6",
+            "rgbhex": "#D6D1C9",
+            "aspects": {
+                "satin": {
+                    "ref": "80040891",
+                    "url": "https://www.leroymerlin.fr/reflm/80040891"
+                },
+                "matt": {
+                    "ref": "80044440",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-luxens/peinture-mur-boiserie-radiateur-multisupports-luxens-trench-6-mat-0-5-l-80044440.html?fwd=80044440"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4cccfc47-683b-4ebe-b2d3-e482b55f7150",
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "731496b1-c5a2-48f1-94a5-15af5e60be2c"
+            ],
+            "complementary_colors": [
+                "f938ae7a-7206-4f64-8b00-2c40fff97081",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "ffbea54d-fd4d-4a55-be4e-849880decab8": {
+            "name": "Blanc",
+            "rgbhex": "#FFFFFF",
+            "aspects": {
+                "matt": {
+                    "ref": "84864769",
+                    "url": "https://www.leroymerlin.fr/reflm/84864769"
+                },
+                "satin": {
+                    "ref": "84874904",
+                    "url": "https://www.leroymerlin.fr/reflm/84874904"
+                },
+                "velor": {
+                    "ref": "84865063",
+                    "url": "https://www.leroymerlin.fr/reflm/84865063"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "32e5ade9-ae4a-4aab-8185-02369ff9dd5a"
+            ],
+            "complementary_colors": [
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ]
+        },
+        "266fe270-c88c-4c84-8fbf-6cf36373a4ea": {
+            "name": "Blanc Pleine Lune",
+            "rgbhex": "#E7DDD2",
+            "aspects": {
+                "velor": {
+                    "ref": "85364589",
+                    "url": "https://www.leroymerlin.fr/reflm/85364589"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                "80d241ca-4227-4dc8-b630-b02582529205"
+            ],
+            "complementary_colors": [
+                "0c10efce-4890-4aef-9ae1-0d9685414fb0",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ]
+        },
+        "7d83662e-72fa-42b6-8979-e402ab2310d0": {
+            "name": "Cool 1",
+            "rgbhex": "#E6E7E2",
+            "aspects": {
+                "satin": {
+                    "ref": "84874934",
+                    "url": "https://www.leroymerlin.fr/reflm/84874934"
+                },
+                "matt": {
+                    "ref": "84864774",
+                    "url": "https://www.leroymerlin.fr/reflm/84864774"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "29729dea-a349-47e2-a049-77d1d8ece2be",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8",
+                "32e5ade9-ae4a-4aab-8185-02369ff9dd5a"
+            ],
+            "complementary_colors": [
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "a09c6310-5ffd-435a-adb3-3ba3a0d9a668"
+            ]
+        },
+        "af81f431-facf-41d4-afb2-0cdc87705a46": {
+            "name": "Cool 4",
+            "rgbhex": "#EFEEE5",
+            "aspects": {
+                "satin": {
+                    "ref": "84874960",
+                    "url": "https://www.leroymerlin.fr/reflm/84874960"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4adedc29-cd72-48b8-85c6-9f04b12ceaf8",
+                "4d62459b-648b-49cf-a5ea-62e2c85c1828",
+                "7c95b1fe-dc86-4226-bdc9-f1ea9696c7bb"
+            ],
+            "complementary_colors": [
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "8ac9afe1-8835-4020-80c1-170cf237de7c"
+            ]
+        },
+        "d70de0df-7574-4e24-9e5b-54461263f7f9": {
+            "name": "Cool 5",
+            "rgbhex": "#F1EEED",
+            "aspects": {
+                "satin": {
+                    "ref": "84874974",
+                    "url": "https://www.leroymerlin.fr/reflm/84874974"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "29729dea-a349-47e2-a049-77d1d8ece2be",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8",
+                "32e5ade9-ae4a-4aab-8185-02369ff9dd5a"
+            ],
+            "complementary_colors": [
+                "f631a9bd-371b-456d-a73f-3fc28d9e7cb4",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ]
+        },
+        "32e5ade9-ae4a-4aab-8185-02369ff9dd5a": {
+            "name": "Cool 6",
+            "rgbhex": "#F1F2F1",
+            "aspects": {
+                "satin": {
+                    "ref": "84874995",
+                    "url": "https://www.leroymerlin.fr/reflm/84874995"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ],
+            "complementary_colors": [
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "84a0f108-e0e4-4cdd-953d-a6bb8dd0d65b"
+            ]
+        },
+        "3bd66b8a-42a7-4081-b8dd-ee3622523711": {
+            "name": "Cream 2",
+            "rgbhex": "#F0E4D2",
+            "aspects": {
+                "satin": {
+                    "ref": "84875080",
+                    "url": "https://www.leroymerlin.fr/reflm/84875080"
+                },
+                "velor": {
+                    "ref": "84865137",
+                    "url": "https://www.leroymerlin.fr/reflm/84865137"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "e19ccf4b-f256-40ae-97d1-705ca54e7b64",
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ],
+            "complementary_colors": [
+                "fd1afba1-f2bb-46b8-b4c4-3ed3f7de5f72",
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80"
+            ]
+        },
+        "4d62459b-648b-49cf-a5ea-62e2c85c1828": {
+            "name": "Cream 5",
+            "rgbhex": "#F0EDE1",
+            "aspects": {
+                "matt": {
+                    "ref": "84864875",
+                    "url": "https://www.leroymerlin.fr/reflm/84864875"
+                },
+                "satin": {
+                    "ref": "84874834",
+                    "url": "https://www.leroymerlin.fr/reflm/84874834"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4adedc29-cd72-48b8-85c6-9f04b12ceaf8",
+                "af81f431-facf-41d4-afb2-0cdc87705a46",
+                "7c95b1fe-dc86-4226-bdc9-f1ea9696c7bb"
+            ],
+            "complementary_colors": [
+                "1cfbae52-8eed-487b-8b09-a78be64682c1",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ]
+        },
+        "e19ccf4b-f256-40ae-97d1-705ca54e7b64": {
+            "name": "Paper 2",
+            "rgbhex": "#E4DAC9",
+            "aspects": {
+                "satin": {
+                    "ref": "84875055",
+                    "url": "https://www.leroymerlin.fr/reflm/84875055"
+                },
+                "velor": {
+                    "ref": "84865131",
+                    "url": "https://www.leroymerlin.fr/reflm/84865131"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ],
+            "complementary_colors": [
+                "3dcc5ce2-6a03-4964-ab5a-e85dff58677e",
+                "319fa828-523a-4953-998c-28540b68c6d6"
+            ]
+        },
+        "e0a9c32e-ad9b-4716-9217-8d67e59a44ca": {
+            "name": "Paper 3",
+            "rgbhex": "#E7DFD9",
+            "aspects": {
+                "satin": {
+                    "ref": "84875027",
+                    "url": "https://www.leroymerlin.fr/reflm/84875027"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "e19ccf4b-f256-40ae-97d1-705ca54e7b64",
+                "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ],
+            "complementary_colors": [
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a"
+            ]
+        },
+        "61fa9a80-d4a9-464d-9404-e6eb585c9efe": {
+            "name": "Paper 5",
+            "rgbhex": "#EDE6DE",
+            "aspects": {
+                "satin": {
+                    "ref": "84875065",
+                    "url": "https://www.leroymerlin.fr/reflm/84875065"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                "80d241ca-4227-4dc8-b630-b02582529205"
+            ],
+            "complementary_colors": [
+                "3f80b066-7ebe-48b5-8ba8-39e9187eb8e1",
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf"
+            ]
+        },
+        "80d241ca-4227-4dc8-b630-b02582529205": {
+            "name": "Paper 6",
+            "rgbhex": "#EEEAE3",
+            "aspects": {
+                "satin": {
+                    "ref": "84875040",
+                    "url": "https://www.leroymerlin.fr/reflm/84875040"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ],
+            "complementary_colors": [
+                "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                "989a9dc0-af34-4e87-9382-423173327a00"
+            ]
+        },
+        "657b1911-b423-47ed-aef5-24966ff8555a": {
+            "name": "Aqua 3",
+            "rgbhex": "#689FAA",
+            "aspects": {
+                "matt": {
+                    "ref": "80044636",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-aqua-3-mat-0-5-l-e1501056509?fwd=80044636"
+                },
+                "satin": {
+                    "ref": "80041304",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-aqua-3-satine-0-5-l-e1501051082?fwd=80041304"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "928cb5c9-e3b0-4c57-becb-59e52b596d00",
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "8f1cffd0-e2f7-48eb-9d60-96b207ff2078",
+                "4c136e10-2bf7-44e7-ba36-520cf8fc8fca"
+            ],
+            "complementary_colors": [
+                "af81f431-facf-41d4-afb2-0cdc87705a46",
+                "07a86215-3d90-434a-82d9-45cf042d2d41"
+            ]
+        },
+        "4bbf4796-58ec-4630-bb41-82d3b05155eb": {
+            "name": "Aqua 4",
+            "rgbhex": "#819EA8",
+            "aspects": {
+                "satin": {
+                    "ref": "80041311",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-aqua-4-satine-0-5-l-e1501053931?fwd=80041311"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "ae00e089-7fb4-4652-a7cc-01e360d6dd8c",
+                "ab488dba-e237-433c-988e-61ace90e1e7d",
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "e8c766d7-2e91-40c1-b8a1-723b635ae2e3"
+            ],
+            "complementary_colors": [
+                "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "d4999bab-9515-4df5-a544-9c11125349c2": {
+            "name": "Bleu Calme",
+            "rgbhex": "#9CB0B2",
+            "aspects": {
+                "velor": {
+                    "ref": "80029915",
+                    "url": "https://www.leroymerlin.fr/reflm/80029915"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "ab488dba-e237-433c-988e-61ace90e1e7d",
+                "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                "e8c766d7-2e91-40c1-b8a1-723b635ae2e3",
+                "8af709ac-376f-4a29-85a5-21819a1db05e"
+            ],
+            "complementary_colors": [
+                "ff32a060-6e9d-4f65-8f72-f407e9421fea",
+                "12d7c593-b903-4949-9fac-92ca3064ba54"
+            ]
+        },
+        "928cb5c9-e3b0-4c57-becb-59e52b596d00": {
+            "name": "Bleu Des Lacs",
+            "rgbhex": "#3B7A86",
+            "aspects": {
+                "velor": {
+                    "ref": "80029593",
+                    "url": "https://www.leroymerlin.fr/reflm/80029593"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "ce24b395-20ce-4a24-b73c-6f11755a3db5",
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "8f1cffd0-e2f7-48eb-9d60-96b207ff2078"
+            ],
+            "complementary_colors": [
+                "7e26d2a0-2618-4df0-8e4c-782ea743e06d",
+                "b3a99e06-8491-4654-8855-a88ec1916b1d"
+            ]
+        },
+        "7836acfa-4b6f-4a8b-a9b9-8e752ee31f1e": {
+            "name": "Bleu Eclipse",
+            "rgbhex": "#424B59",
+            "aspects": {
+                "velor": {
+                    "ref": "80030342",
+                    "url": "https://www.leroymerlin.fr/reflm/80030342"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                "995652e1-6e6c-4b8a-ae9d-7bce73462f43"
+            ],
+            "complementary_colors": [
+                "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                "8199444d-8e1d-46e3-9c41-6406ca80226e"
+            ]
+        },
+        "ae00e089-7fb4-4652-a7cc-01e360d6dd8c": {
+            "name": "Fjord 1",
+            "rgbhex": "#3D6174",
+            "aspects": {
+                "matt": {
+                    "ref": "80044643",
+                    "url": "https://www.leroymerlin.fr/reflm/80044643"
+                },
+                "satin": {
+                    "ref": "80041346",
+                    "url": "https://www.leroymerlin.fr/reflm/80041346"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "ab488dba-e237-433c-988e-61ace90e1e7d",
+                "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "e8c766d7-2e91-40c1-b8a1-723b635ae2e3"
+            ],
+            "complementary_colors": [
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "80d241ca-4227-4dc8-b630-b02582529205"
+            ]
+        },
+        "c6a66207-dc53-476c-a064-686893bbc22d": {
+            "name": "Fjord 3",
+            "rgbhex": "#578CA9",
+            "aspects": {
+                "matt": {
+                    "ref": "80044650",
+                    "url": "https://www.leroymerlin.fr/reflm/80044650"
+                },
+                "satin": {
+                    "ref": "80041360",
+                    "url": "https://www.leroymerlin.fr/reflm/80041360"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "aa2261c2-2704-4654-8f99-9c8c712b37e3",
+                "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a"
+            ],
+            "complementary_colors": [
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "ec1eee63-141f-4a3c-90da-c79c64055c3a": {
+            "name": "Fjord 4",
+            "rgbhex": "#8DAFC1",
+            "aspects": {
+                "satin": {
+                    "ref": "80041374",
+                    "url": "https://www.leroymerlin.fr/reflm/80041374"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c6a66207-dc53-476c-a064-686893bbc22d",
+                "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                "7ad3c0ec-3817-409b-896b-e087fe3f0c6d"
+            ],
+            "complementary_colors": [
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ]
+        },
+        "7ad3c0ec-3817-409b-896b-e087fe3f0c6d": {
+            "name": "Fjord 6",
+            "rgbhex": "#B5D2DC",
+            "aspects": {
+                "satin": {
+                    "ref": "80041395",
+                    "url": "https://www.leroymerlin.fr/reflm/80041395"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c6a66207-dc53-476c-a064-686893bbc22d",
+                "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a"
+            ],
+            "complementary_colors": [
+                "ffcc97e5-f6e2-4659-b797-c5fc07f99bee",
+                "bd7c3ec1-6709-422b-a20e-5c8432dc6986"
+            ]
+        },
+        "ce24b395-20ce-4a24-b73c-6f11755a3db5": {
+            "name": "Miami 1",
+            "rgbhex": "#006578",
+            "aspects": {
+                "matt": {
+                    "ref": "80044671",
+                    "url": "https://www.leroymerlin.fr/reflm/80044671"
+                },
+                "satin": {
+                    "ref": "80041402",
+                    "url": "https://www.leroymerlin.fr/reflm/80041402"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "928cb5c9-e3b0-4c57-becb-59e52b596d00",
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "8f1cffd0-e2f7-48eb-9d60-96b207ff2078"
+            ],
+            "complementary_colors": [
+                "90fa2291-d76e-4a0e-8e4c-61eb1d0b3588",
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80"
+            ]
+        },
+        "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a": {
+            "name": "Miami 2",
+            "rgbhex": "#00899D",
+            "aspects": {
+                "matt": {
+                    "ref": "80044685",
+                    "url": "https://www.leroymerlin.fr/reflm/80044685"
+                },
+                "satin": {
+                    "ref": "80041416",
+                    "url": "https://www.leroymerlin.fr/reflm/80041416"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "ce24b395-20ce-4a24-b73c-6f11755a3db5",
+                "928cb5c9-e3b0-4c57-becb-59e52b596d00",
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "8f1cffd0-e2f7-48eb-9d60-96b207ff2078"
+            ],
+            "complementary_colors": [
+                "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                "2692ec71-cb29-4696-8588-55894d6a9088"
+            ]
+        },
+        "8f1cffd0-e2f7-48eb-9d60-96b207ff2078": {
+            "name": "Miami 4",
+            "rgbhex": "#42BDCB",
+            "aspects": {
+                "matt": {
+                    "ref": "80044692",
+                    "url": "https://www.leroymerlin.fr/reflm/80044692"
+                },
+                "satin": {
+                    "ref": "80041430",
+                    "url": "https://www.leroymerlin.fr/reflm/80041430"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "928cb5c9-e3b0-4c57-becb-59e52b596d00",
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "4c136e10-2bf7-44e7-ba36-520cf8fc8fca"
+            ],
+            "complementary_colors": [
+                "15be86c3-af1e-4a0e-bf49-0e3b75c5f567",
+                "32e5ade9-ae4a-4aab-8185-02369ff9dd5a"
+            ]
+        },
+        "4c136e10-2bf7-44e7-ba36-520cf8fc8fca": {
+            "name": "Miami 6",
+            "rgbhex": "#A1DDDD",
+            "aspects": {
+                "satin": {
+                    "ref": "80041451",
+                    "url": "https://www.leroymerlin.fr/reflm/80041451"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "928cb5c9-e3b0-4c57-becb-59e52b596d00",
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "8f1cffd0-e2f7-48eb-9d60-96b207ff2078"
+            ],
+            "complementary_colors": [
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1",
+                "b9035768-e61d-4683-9d36-297df60e2242"
+            ]
+        },
+        "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a": {
+            "name": "Saphir 1",
+            "rgbhex": "#303F66",
+            "aspects": {
+                "matt": {
+                    "ref": "80044720",
+                    "url": "https://www.leroymerlin.fr/reflm/80044720"
+                },
+                "satin": {
+                    "ref": "80041493",
+                    "url": "https://www.leroymerlin.fr/reflm/80041493"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7836acfa-4b6f-4a8b-a9b9-8e752ee31f1e",
+                "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                "995652e1-6e6c-4b8a-ae9d-7bce73462f43"
+            ],
+            "complementary_colors": [
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae"
+            ]
+        },
+        "4c3371db-4d82-448d-806d-bd0ef38657f8": {
+            "name": "Saphir 2",
+            "rgbhex": "#164D8F",
+            "aspects": {
+                "matt": {
+                    "ref": "80044734",
+                    "url": "https://www.leroymerlin.fr/reflm/80044734"
+                },
+                "satin": {
+                    "ref": "80041500",
+                    "url": "https://www.leroymerlin.fr/reflm/80041500"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                "995652e1-6e6c-4b8a-ae9d-7bce73462f43",
+                "562761eb-f366-410d-8e70-b3d71c7ac670"
+            ],
+            "complementary_colors": [
+                "1cfbae52-8eed-487b-8b09-a78be64682c1",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "562761eb-f366-410d-8e70-b3d71c7ac670": {
+            "name": "Saphir 6",
+            "rgbhex": "#BFCFDD",
+            "aspects": {
+                "matt": {
+                    "ref": "80044741",
+                    "url": "https://www.leroymerlin.fr/reflm/80044741"
+                },
+                "satin": {
+                    "ref": "80041521",
+                    "url": "https://www.leroymerlin.fr/reflm/80041521"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                "995652e1-6e6c-4b8a-ae9d-7bce73462f43"
+            ],
+            "complementary_colors": [
+                "2ccd7993-9441-46d7-8bd2-c16e537d8899",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e"
+            ]
+        },
+        "989a9dc0-af34-4e87-9382-423173327a00": {
+            "name": "Granit 1",
+            "rgbhex": "#4D4B4F",
+            "aspects": {
+                "matt": {
+                    "ref": "80044125",
+                    "url": "https://www.leroymerlin.fr/reflm/80044125"
+                },
+                "satin": {
+                    "ref": "80040254",
+                    "url": "https://www.leroymerlin.fr/reflm/80040254"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c"
+            ],
+            "complementary_colors": [
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0"
+            ]
+        },
+        "97dcf567-9bba-4f3c-98ab-7725a87d43bf": {
+            "name": "Granit 2",
+            "rgbhex": "#66676D",
+            "aspects": {
+                "matt": {
+                    "ref": "80044132",
+                    "url": "https://www.leroymerlin.fr/reflm/80044132"
+                },
+                "satin": {
+                    "ref": "80040261",
+                    "url": "https://www.leroymerlin.fr/reflm/80040261"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "989a9dc0-af34-4e87-9382-423173327a00",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c"
+            ],
+            "complementary_colors": [
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "e0db86b1-bf28-4042-8968-db42cf6ada1e": {
+            "name": "Granit 3",
+            "rgbhex": "#9A9B9F",
+            "aspects": {
+                "matt": {
+                    "ref": "80044146",
+                    "url": "https://www.leroymerlin.fr/reflm/80044146"
+                },
+                "satin": {
+                    "ref": "80040275",
+                    "url": "https://www.leroymerlin.fr/reflm/80040275"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "989a9dc0-af34-4e87-9382-423173327a00",
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c"
+            ],
+            "complementary_colors": [
+                "562761eb-f366-410d-8e70-b3d71c7ac670",
+                "2692ec71-cb29-4696-8588-55894d6a9088"
+            ]
+        },
+        "e1f045f1-0543-4169-9a4d-47b0b13c1ca4": {
+            "name": "Granit 4",
+            "rgbhex": "#ABB1B3",
+            "aspects": {
+                "matt": {
+                    "ref": "80044153",
+                    "url": "https://www.leroymerlin.fr/reflm/80044153"
+                },
+                "satin": {
+                    "ref": "80040282",
+                    "url": "https://www.leroymerlin.fr/reflm/80040282"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ],
+            "complementary_colors": [
+                "300abd54-7b44-4266-9ae9-d7a1d0051b8e",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ]
+        },
+        "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c": {
+            "name": "Granit 5",
+            "rgbhex": "#C4C5CA",
+            "aspects": {
+                "matt": {
+                    "ref": "80044160",
+                    "url": "https://www.leroymerlin.fr/reflm/80044160"
+                },
+                "satin": {
+                    "ref": "80040296",
+                    "url": "https://www.leroymerlin.fr/reflm/80040296"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ],
+            "complementary_colors": [
+                "81c6ba73-0c72-4609-93c5-30f0681db32c",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ]
+        },
+        "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1": {
+            "name": "Granit 6",
+            "rgbhex": "#DFDFE3",
+            "aspects": {
+                "matt": {
+                    "ref": "80044174",
+                    "url": "https://www.leroymerlin.fr/reflm/80044174"
+                },
+                "satin": {
+                    "ref": "80040303",
+                    "url": "https://www.leroymerlin.fr/reflm/80040303"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c"
+            ],
+            "complementary_colors": [
+                "be236413-95f0-4c1e-8b0c-8b6ab3f7dd30",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "32990f63-be68-45b1-94c1-f15615b733eb": {
+            "name": "Gris Cendre",
+            "rgbhex": "#C2C0B9",
+            "aspects": {
+                "velor": {
+                    "ref": "80030230",
+                    "url": "https://www.leroymerlin.fr/reflm/80030230"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                "981b70da-7760-427f-b1a6-0ddcd1b3e878"
+            ],
+            "complementary_colors": [
+                "64719c0f-5a9f-44a2-8bc3-8d1a8d40cce8",
+                "96e30fab-636a-413d-b81c-86cea7326bc9"
+            ]
+        },
+        "e75abf75-c2c3-4035-b45f-0621fe381a03": {
+            "name": "Gris Pluie",
+            "rgbhex": "#AFB4B6",
+            "aspects": {
+                "velor": {
+                    "ref": "80029922",
+                    "url": "https://www.leroymerlin.fr/reflm/80029922"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "e5f5fe6a-e73e-4622-9506-0ea3b5971a99",
+                "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf"
+            ],
+            "complementary_colors": [
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ]
+        },
+        "aa2261c2-2704-4654-8f99-9c8c712b37e3": {
+            "name": "Ink 4",
+            "rgbhex": "#738A98",
+            "aspects": {
+                "satin": {
+                    "ref": "80040345",
+                    "url": "https://www.leroymerlin.fr/reflm/80040345"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c6a66207-dc53-476c-a064-686893bbc22d",
+                "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a"
+            ],
+            "complementary_colors": [
+                "de7beb11-3af0-4aad-b58f-beaf6dd4a95f",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ]
+        },
+        "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b": {
+            "name": "Ink 5",
+            "rgbhex": "#879BAF",
+            "aspects": {
+                "matt": {
+                    "ref": "80044195",
+                    "url": "https://www.leroymerlin.fr/reflm/80044195"
+                },
+                "satin": {
+                    "ref": "80040352",
+                    "url": "https://www.leroymerlin.fr/reflm/80040352"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                "e5879814-9d17-4a60-b001-c31354194a05",
+                "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                "894da900-92a3-4aef-9dbc-ad428bf11ecb"
+            ],
+            "complementary_colors": [
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "9044f7c4-25aa-4b99-bf32-aa685cfdd4f8"
+            ]
+        },
+        "894da900-92a3-4aef-9dbc-ad428bf11ecb": {
+            "name": "Ink 6",
+            "rgbhex": "#C6D1DD",
+            "aspects": {
+                "matt": {
+                    "ref": "80044202",
+                    "url": "https://www.leroymerlin.fr/reflm/80044202"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                "e5879814-9d17-4a60-b001-c31354194a05",
+                "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ],
+            "complementary_colors": [
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "4cccfc47-683b-4ebe-b2d3-e482b55f7150": {
+            "name": "Khol 3",
+            "rgbhex": "#847A75",
+            "aspects": {
+                "satin": {
+                    "ref": "84874843",
+                    "url": "https://www.leroymerlin.fr/reflm/84874843"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "44329e5b-c564-4136-b8d4-a1046eee5bd5",
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "731496b1-c5a2-48f1-94a5-15af5e60be2c",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ],
+            "complementary_colors": [
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b",
+                "894da900-92a3-4aef-9dbc-ad428bf11ecb"
+            ]
+        },
+        "8d3462eb-0c44-4220-96e2-1c8139f6e617": {
+            "name": "Khol 4",
+            "rgbhex": "#A49E9D",
+            "aspects": {
+                "satin": {
+                    "ref": "84874859",
+                    "url": "https://www.leroymerlin.fr/reflm/84874859"
+                },
+                "matt": {
+                    "ref": "84864847",
+                    "url": "https://www.leroymerlin.fr/reflm/84864847"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "44329e5b-c564-4136-b8d4-a1046eee5bd5",
+                "4cccfc47-683b-4ebe-b2d3-e482b55f7150",
+                "731496b1-c5a2-48f1-94a5-15af5e60be2c",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ],
+            "complementary_colors": [
+                "21225e9b-391b-4277-aab8-c66bb37f1834",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "731496b1-c5a2-48f1-94a5-15af5e60be2c": {
+            "name": "Khol 6",
+            "rgbhex": "#C6BFB8",
+            "aspects": {
+                "satin": {
+                    "ref": "80040415",
+                    "url": "https://www.leroymerlin.fr/reflm/80040415"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4cccfc47-683b-4ebe-b2d3-e482b55f7150",
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ],
+            "complementary_colors": [
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "bec20016-6974-4bf9-9715-92670418d093"
+            ]
+        },
+        "c51237e8-2755-42f4-be16-f3b200bfeae7": {
+            "name": "Moon 1",
+            "rgbhex": "#6A6A6A",
+            "aspects": {
+                "satin": {
+                    "ref": "80040422",
+                    "url": "https://www.leroymerlin.fr/reflm/80040422"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "32990f63-be68-45b1-94c1-f15615b733eb",
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                "981b70da-7760-427f-b1a6-0ddcd1b3e878"
+            ],
+            "complementary_colors": [
+                "a09c6310-5ffd-435a-adb3-3ba3a0d9a668",
+                "3526ea3e-2764-49e8-9ecf-551c18e15643"
+            ]
+        },
+        "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32": {
+            "name": "Moon 4",
+            "rgbhex": "#ADA59C",
+            "aspects": {
+                "satin": {
+                    "ref": "80040450",
+                    "url": "https://www.leroymerlin.fr/reflm/80040450"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                "32990f63-be68-45b1-94c1-f15615b733eb",
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                "981b70da-7760-427f-b1a6-0ddcd1b3e878"
+            ],
+            "complementary_colors": [
+                "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80"
+            ]
+        },
+        "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef": {
+            "name": "Moon 5",
+            "rgbhex": "#C4C2B9",
+            "aspects": {
+                "matt": {
+                    "ref": "80044230",
+                    "url": "https://www.leroymerlin.fr/reflm/80044230"
+                },
+                "satin": {
+                    "ref": "80040464",
+                    "url": "https://www.leroymerlin.fr/reflm/80040464"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "32990f63-be68-45b1-94c1-f15615b733eb",
+                "981b70da-7760-427f-b1a6-0ddcd1b3e878"
+            ],
+            "complementary_colors": [
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "f1b7d6eb-eecc-4c34-a15e-716f1937121a"
+            ]
+        },
+        "981b70da-7760-427f-b1a6-0ddcd1b3e878": {
+            "name": "Moon 6",
+            "rgbhex": "#DBD9CE",
+            "aspects": {
+                "satin": {
+                    "ref": "80040471",
+                    "url": "https://www.leroymerlin.fr/reflm/80040471"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "32990f63-be68-45b1-94c1-f15615b733eb",
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef"
+            ],
+            "complementary_colors": [
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "c9335945-575b-4e8b-a287-a4096d17d269"
+            ]
+        },
+        "a40edbc3-21e3-4128-a023-3d6f5076b952": {
+            "name": "Paris 1",
+            "rgbhex": "#3D4249",
+            "aspects": {
+                "matt": {
+                    "ref": "80044244",
+                    "url": "https://www.leroymerlin.fr/reflm/80044244"
+                },
+                "satin": {
+                    "ref": "80040485",
+                    "url": "https://www.leroymerlin.fr/reflm/80040485"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "33a763fd-54f1-4fca-ad04-a9c8a2c4f154",
+                "0b8106d9-4334-4c7f-ad13-558dfc61b079",
+                "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6",
+                "cc8975ce-9dd3-4bb7-a472-f95506892159"
+            ],
+            "complementary_colors": [
+                "562761eb-f366-410d-8e70-b3d71c7ac670",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ]
+        },
+        "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6": {
+            "name": "Paris 2",
+            "rgbhex": "#595C62",
+            "aspects": {
+                "satin": {
+                    "ref": "80040492",
+                    "url": "https://www.leroymerlin.fr/reflm/80040492"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "0b8106d9-4334-4c7f-ad13-558dfc61b079",
+                "a40edbc3-21e3-4128-a023-3d6f5076b952",
+                "cc8975ce-9dd3-4bb7-a472-f95506892159",
+                "7590c898-813c-46b0-9be6-3bcc3aafbc7e"
+            ],
+            "complementary_colors": [
+                "ffbea54d-fd4d-4a55-be4e-849880decab8",
+                "3dcc5ce2-6a03-4964-ab5a-e85dff58677e"
+            ]
+        },
+        "cc8975ce-9dd3-4bb7-a472-f95506892159": {
+            "name": "Paris 3",
+            "rgbhex": "#7A8387",
+            "aspects": {
+                "matt": {
+                    "ref": "80044251",
+                    "url": "https://www.leroymerlin.fr/reflm/80044251"
+                },
+                "satin": {
+                    "ref": "80040506",
+                    "url": "https://www.leroymerlin.fr/reflm/80040506"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "0b8106d9-4334-4c7f-ad13-558dfc61b079",
+                "a40edbc3-21e3-4128-a023-3d6f5076b952",
+                "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6",
+                "7590c898-813c-46b0-9be6-3bcc3aafbc7e"
+            ],
+            "complementary_colors": [
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9"
+            ]
+        },
+        "95a1d07a-6381-4f62-b8e4-7b168951780f": {
+            "name": "Paris 4",
+            "rgbhex": "#8A8F90",
+            "aspects": {
+                "satin": {
+                    "ref": "80040513",
+                    "url": "https://www.leroymerlin.fr/reflm/80040513"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "e5f5fe6a-e73e-4622-9506-0ea3b5971a99",
+                "e75abf75-c2c3-4035-b45f-0621fe381a03",
+                "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf"
+            ],
+            "complementary_colors": [
+                "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a",
+                "2692ec71-cb29-4696-8588-55894d6a9088"
+            ]
+        },
+        "7590c898-813c-46b0-9be6-3bcc3aafbc7e": {
+            "name": "Paris 6",
+            "rgbhex": "#AEBAC1",
+            "aspects": {
+                "satin": {
+                    "ref": "80040534",
+                    "url": "https://www.leroymerlin.fr/reflm/80040534"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "0b8106d9-4334-4c7f-ad13-558dfc61b079",
+                "a40edbc3-21e3-4128-a023-3d6f5076b952",
+                "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6",
+                "cc8975ce-9dd3-4bb7-a472-f95506892159"
+            ],
+            "complementary_colors": [
+                "ffcc97e5-f6e2-4659-b797-c5fc07f99bee",
+                "7ad3c0ec-3817-409b-896b-e087fe3f0c6d"
+            ]
+        },
+        "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf": {
+            "name": "Smoke 6",
+            "rgbhex": "#CBD0CF",
+            "aspects": {
+                "satin": {
+                    "ref": "80040604",
+                    "url": "https://www.leroymerlin.fr/reflm/80040604"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                "e75abf75-c2c3-4035-b45f-0621fe381a03"
+            ],
+            "complementary_colors": [
+                "300abd54-7b44-4266-9ae9-d7a1d0051b8e",
+                "989a9dc0-af34-4e87-9382-423173327a00"
+            ]
+        },
+        "15be86c3-af1e-4a0e-bf49-0e3b75c5f567": {
+            "name": "Jane 5",
+            "rgbhex": "#EFC050",
+            "aspects": {
+                "satin": {
+                    "ref": "82735044",
+                    "url": "https://www.leroymerlin.fr//produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-mur-boiserie-radiateur-luxens-jane-5-satine-0-5-l-82735044.html"
+                },
+                "matt": {
+                    "ref": "84864881",
+                    "url": "https://www.leroymerlin.fr/reflm/84864881"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "cb54c1db-e351-4c5f-842c-1e5c589c2c8d",
+                "61020672-afac-412e-9304-7f08c55bfb9a",
+                "b9035768-e61d-4683-9d36-297df60e2242"
+            ],
+            "complementary_colors": [
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c",
+                "e0db86b1-bf28-4042-8968-db42cf6ada1e"
+            ]
+        },
+        "3526ea3e-2764-49e8-9ecf-551c18e15643": {
+            "name": "Banana 1",
+            "rgbhex": "#C69241",
+            "aspects": {
+                "matt": {
+                    "ref": "80044552",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-banana-1-mat-0-5-l-e1501120408?fwd=80044552"
+                },
+                "satin": {
+                    "ref": "80041115",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-banana-1-satin-0-5-l-e1501054718?fwd=80041115"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "8b5c4320-c0d0-45b4-aba3-7988053a1bd2"
+            ],
+            "complementary_colors": [
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35"
+            ]
+        },
+        "cb54c1db-e351-4c5f-842c-1e5c589c2c8d": {
+            "name": "Banana 3",
+            "rgbhex": "#FFC007",
+            "aspects": {
+                "matt": {
+                    "ref": "80044566",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-banana-3-mat-0-5-l-e1501120751?fwd=80044566"
+                },
+                "satin": {
+                    "ref": "80041122",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-banana-3-satin-0-5-l-e1501051073?fwd=80041122"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "15be86c3-af1e-4a0e-bf49-0e3b75c5f567",
+                "61020672-afac-412e-9304-7f08c55bfb9a",
+                "b9035768-e61d-4683-9d36-297df60e2242"
+            ],
+            "complementary_colors": [
+                "989a9dc0-af34-4e87-9382-423173327a00",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "b9035768-e61d-4683-9d36-297df60e2242": {
+            "name": "Banana 5",
+            "rgbhex": "#FDE182",
+            "aspects": {
+                "satin": {
+                    "ref": "80041136",
+                    "url": "https://www.leroymerlin.fr/v3/p/produits/peinture-mur-boiserie-radiateur-multisupports-luxens-banana-5-satin-0-5-l-e1501055221?fwd=80041136"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "cb54c1db-e351-4c5f-842c-1e5c589c2c8d",
+                "61020672-afac-412e-9304-7f08c55bfb9a"
+            ],
+            "complementary_colors": [
+                "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9"
+            ]
+        },
+        "61020672-afac-412e-9304-7f08c55bfb9a": {
+            "name": "Lime 4",
+            "rgbhex": "#F3CF55",
+            "aspects": {
+                "satin": {
+                    "ref": "80041150",
+                    "url": "https://www.leroymerlin.fr/reflm/80041150"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "15be86c3-af1e-4a0e-bf49-0e3b75c5f567",
+                "cb54c1db-e351-4c5f-842c-1e5c589c2c8d",
+                "b9035768-e61d-4683-9d36-297df60e2242"
+            ],
+            "complementary_colors": [
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "9bea77a9-2129-4e75-865b-80a45d2b8f4b": {
+            "name": "Fossil 4",
+            "rgbhex": "#AB9895",
+            "aspects": {
+                "satin": {
+                    "ref": "84874829",
+                    "url": "https://www.leroymerlin.fr/reflm/84874829"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "bec20016-6974-4bf9-9715-92670418d093",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae",
+                "a872e0a4-6e89-45c5-a59c-31541902aaec"
+            ],
+            "complementary_colors": [
+                "481e94ad-4bcc-4f40-8d39-8884670aa8ce",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "f0334915-05bb-4186-8ac0-c1a4d81ec6ae": {
+            "name": "Fossil 5",
+            "rgbhex": "#BCABA0",
+            "aspects": {
+                "satin": {
+                    "ref": "84874842",
+                    "url": "https://www.leroymerlin.fr/reflm/84874842"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "9bea77a9-2129-4e75-865b-80a45d2b8f4b",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd",
+                "a872e0a4-6e89-45c5-a59c-31541902aaec",
+                "2472d035-2130-491a-934d-676e1f8eac4b"
+            ],
+            "complementary_colors": [
+                "1cfbae52-8eed-487b-8b09-a78be64682c1",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9"
+            ]
+        },
+        "94cb2bec-149e-43fb-964a-44921e14ea2a": {
+            "name": "Havana 2",
+            "rgbhex": "#6F504F",
+            "aspects": {
+                "satin": {
+                    "ref": "84874856",
+                    "url": "https://www.leroymerlin.fr/reflm/84874856"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "33586940-5448-45f3-9780-138dd2b9d43e",
+                "5bc1d4c4-0626-48a6-adf7-efeff8651a1d"
+            ],
+            "complementary_colors": [
+                "53b090c8-7288-44ac-8e90-a31fac1e503b",
+                "3526ea3e-2764-49e8-9ecf-551c18e15643"
+            ]
+        },
+        "307fe051-8908-4fea-9d2b-f21b3662da43": {
+            "name": "Havana 3",
+            "rgbhex": "#986358",
+            "aspects": {
+                "satin": {
+                    "ref": "84874883",
+                    "url": "https://www.leroymerlin.fr/reflm/84874883"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "94cb2bec-149e-43fb-964a-44921e14ea2a",
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "33586940-5448-45f3-9780-138dd2b9d43e",
+                "5bc1d4c4-0626-48a6-adf7-efeff8651a1d"
+            ],
+            "complementary_colors": [
+                "0ab1ecd8-6bc3-48a2-88f1-310aa22af517",
+                "981b70da-7760-427f-b1a6-0ddcd1b3e878"
+            ]
+        },
+        "7c24e945-3147-489e-9597-64feaee373e7": {
+            "name": "Havana 4",
+            "rgbhex": "#B3937F",
+            "aspects": {
+                "satin": {
+                    "ref": "84874902",
+                    "url": "https://www.leroymerlin.fr/reflm/84874902"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "94cb2bec-149e-43fb-964a-44921e14ea2a",
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "33586940-5448-45f3-9780-138dd2b9d43e",
+                "5bc1d4c4-0626-48a6-adf7-efeff8651a1d"
+            ],
+            "complementary_colors": [
+                "492a5ada-237d-49c6-8faf-959c1d288d60",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "44329e5b-c564-4136-b8d4-a1046eee5bd5": {
+            "name": "Moka 1",
+            "rgbhex": "#4E423D",
+            "aspects": {
+                "velor": {
+                    "ref": "85364556",
+                    "url": "https://www.leroymerlin.fr/reflm/85364556"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4cccfc47-683b-4ebe-b2d3-e482b55f7150",
+                "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                "731496b1-c5a2-48f1-94a5-15af5e60be2c",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ],
+            "complementary_colors": [
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "f1b7d6eb-eecc-4c34-a15e-716f1937121a"
+            ]
+        },
+        "fdfd122f-c522-4f53-86ce-8433a9657c0e": {
+            "name": "Trench 3",
+            "rgbhex": "#978979",
+            "aspects": {
+                "satin": {
+                    "ref": "84875066",
+                    "url": "https://www.leroymerlin.fr/reflm/84875066"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "6b726bbf-ffb7-45f4-bbf3-378e5de66db0",
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "bf49d6cd-e193-436d-a782-85757eafd27c",
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340"
+            ],
+            "complementary_colors": [
+                "e130618c-f309-46db-9286-66c13c92d2e0",
+                "1cfbae52-8eed-487b-8b09-a78be64682c1"
+            ]
+        },
+        "319fa828-523a-4953-998c-28540b68c6d6": {
+            "name": "Trench 5",
+            "rgbhex": "#BEAE9A",
+            "aspects": {
+                "satin": {
+                    "ref": "84864856",
+                    "url": "https://www.leroymerlin.fr/reflm/84864856"
+                },
+                "matt": {
+                    "ref": "84875074",
+                    "url": "https://www.leroymerlin.fr/reflm/84875074"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "6b726bbf-ffb7-45f4-bbf3-378e5de66db0",
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e",
+                "bf49d6cd-e193-436d-a782-85757eafd27c",
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340"
+            ],
+            "complementary_colors": [
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "a09c6310-5ffd-435a-adb3-3ba3a0d9a668"
+            ]
+        },
+        "253d194b-7b97-4b25-92cf-f10a3db8a9dd": {
+            "name": "Chili 4",
+            "rgbhex": "#F4512C",
+            "aspects": {
+                "satin": {
+                    "ref": "80041073",
+                    "url": "https://www.leroymerlin.fr/reflm/80041073"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7961cde0-d122-430a-b15a-a91966664fb1",
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "a8df3523-230b-43a0-88b2-2c5940ca11bd"
+            ],
+            "complementary_colors": [
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "7961cde0-d122-430a-b15a-a91966664fb1": {
+            "name": "Chili 5",
+            "rgbhex": "#FF894D",
+            "aspects": {
+                "satin": {
+                    "ref": "80041080",
+                    "url": "https://www.leroymerlin.fr/reflm/80041080"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "253d194b-7b97-4b25-92cf-f10a3db8a9dd",
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "a8df3523-230b-43a0-88b2-2c5940ca11bd"
+            ],
+            "complementary_colors": [
+                "0ab1ecd8-6bc3-48a2-88f1-310aa22af517",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "92cd5d46-ea86-4d87-a083-64c5ebed20ad": {
+            "name": "Cocktail 5",
+            "rgbhex": "#FFA480",
+            "aspects": {
+                "satin": {
+                    "ref": "80041094",
+                    "url": "https://www.leroymerlin.fr/reflm/80041094"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7961cde0-d122-430a-b15a-a91966664fb1",
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "a8df3523-230b-43a0-88b2-2c5940ca11bd"
+            ],
+            "complementary_colors": [
+                "c88fdd8a-1db9-4bfa-b170-75ea50bcce96",
+                "f1b7d6eb-eecc-4c34-a15e-716f1937121a"
+            ]
+        },
+        "9e636222-0d8c-49b6-bb23-a9b79b7bb22c": {
+            "name": "Cotta 4",
+            "rgbhex": "#C78362",
+            "aspects": {
+                "matt": {
+                    "ref": "82735030",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-mur-boiserie-radiateur-luxens-cotta-4-mat-0-5-l-82735030.html"
+                },
+                "satin": {
+                    "ref": "82735027",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-mur-boiserie-radiateur-luxens-cotta-4-satine-0-5-l-82735027.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "253d194b-7b97-4b25-92cf-f10a3db8a9dd",
+                "7961cde0-d122-430a-b15a-a91966664fb1",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "a8df3523-230b-43a0-88b2-2c5940ca11bd"
+            ],
+            "complementary_colors": [
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340",
+                "3526ea3e-2764-49e8-9ecf-551c18e15643"
+            ]
+        },
+        "8afaf779-28e7-4dc2-bd20-590c22dacb35": {
+            "name": "Lava 3",
+            "rgbhex": "#C76753",
+            "aspects": {
+                "matt": {
+                    "ref": "82735050",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-mur-boiserie-radiateur-luxens-lava-3-mat-0-5-l-82735050.html"
+                },
+                "satin": {
+                    "ref": "82735048",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-murale-couleur/peinture-mur-boiserie-radiateur-luxens-lava-3-satine-0-5-l-82735048.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7961cde0-d122-430a-b15a-a91966664fb1",
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "a8df3523-230b-43a0-88b2-2c5940ca11bd",
+                "92cd5d46-ea86-4d87-a083-64c5ebed20ad"
+            ],
+            "complementary_colors": [
+                "6ad14fb9-6fb9-43e3-bb8b-4abdc5acc5d9",
+                "ffcc97e5-f6e2-4659-b797-c5fc07f99bee"
+            ]
+        },
+        "a8df3523-230b-43a0-88b2-2c5940ca11bd": {
+            "name": "Orange Ardent",
+            "rgbhex": "#D37348",
+            "aspects": {
+                "velor": {
+                    "ref": "80030293",
+                    "url": "https://www.leroymerlin.fr/reflm/80030293"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "7961cde0-d122-430a-b15a-a91966664fb1",
+                "9e636222-0d8c-49b6-bb23-a9b79b7bb22c",
+                "8afaf779-28e7-4dc2-bd20-590c22dacb35",
+                "92cd5d46-ea86-4d87-a083-64c5ebed20ad"
+            ],
+            "complementary_colors": [
+                "8199444d-8e1d-46e3-9c41-6406ca80226e",
+                "fe4acc5d-c89f-418c-a789-582d2573d371"
+            ]
+        },
+        "4ef415c6-4d12-4a9d-9b85-24511754e7fe": {
+            "name": "Candy 2",
+            "rgbhex": "#82305A",
+            "aspects": {
+                "satin": {
+                    "ref": "80041766",
+                    "url": "https://www.leroymerlin.fr/reflm/80041766"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c66784fd-6ea8-40ea-aaa8-939fb07425b1",
+                "bf8e1e5c-4988-4817-8bce-c3fcc25edf16",
+                "f966675d-dc6a-408f-957f-aaa7e491b538"
+            ],
+            "complementary_colors": [
+                "af81f431-facf-41d4-afb2-0cdc87705a46",
+                "3526ea3e-2764-49e8-9ecf-551c18e15643"
+            ]
+        },
+        "76edba13-d14c-4bb3-9584-79279d994163": {
+            "name": "Candy 3",
+            "rgbhex": "#C3447A",
+            "aspects": {
+                "matt": {
+                    "ref": "80044804",
+                    "url": "https://www.leroymerlin.fr/reflm/80044804"
+                },
+                "satin": {
+                    "ref": "80041682",
+                    "url": "https://www.leroymerlin.fr/reflm/80041682"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "a988b462-a69d-4b23-ac5e-c882b95a4b23",
+                "3fb55544-1b02-40be-9ae9-88fae65f2802",
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ],
+            "complementary_colors": [
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ]
+        },
+        "c66784fd-6ea8-40ea-aaa8-939fb07425b1": {
+            "name": "Candy 4",
+            "rgbhex": "#EE79A5",
+            "aspects": {
+                "satin": {
+                    "ref": "80041696",
+                    "url": "https://www.leroymerlin.fr/reflm/80041696"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4ef415c6-4d12-4a9d-9b85-24511754e7fe",
+                "bf8e1e5c-4988-4817-8bce-c3fcc25edf16",
+                "f966675d-dc6a-408f-957f-aaa7e491b538"
+            ],
+            "complementary_colors": [
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                "7590c898-813c-46b0-9be6-3bcc3aafbc7e"
+            ]
+        },
+        "bf8e1e5c-4988-4817-8bce-c3fcc25edf16": {
+            "name": "Candy 5",
+            "rgbhex": "#E99ABE",
+            "aspects": {
+                "matt": {
+                    "ref": "80044811",
+                    "url": "https://www.leroymerlin.fr/reflm/80044811"
+                },
+                "satin": {
+                    "ref": "80041703",
+                    "url": "https://www.leroymerlin.fr/reflm/80041703"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4ef415c6-4d12-4a9d-9b85-24511754e7fe",
+                "c66784fd-6ea8-40ea-aaa8-939fb07425b1",
+                "f966675d-dc6a-408f-957f-aaa7e491b538"
+            ],
+            "complementary_colors": [
+                "657b1911-b423-47ed-aef5-24966ff8555a",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ]
+        },
+        "80a4203a-ae1e-451e-a576-d87f8d9050ac": {
+            "name": "Candy 6",
+            "rgbhex": "#F8D5E0",
+            "aspects": {
+                "matt": {
+                    "ref": "80044825",
+                    "url": "https://www.leroymerlin.fr/reflm/80044825"
+                },
+                "satin": {
+                    "ref": "80041710",
+                    "url": "https://www.leroymerlin.fr/reflm/80041710"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "a988b462-a69d-4b23-ac5e-c882b95a4b23",
+                "3fb55544-1b02-40be-9ae9-88fae65f2802",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ],
+            "complementary_colors": [
+                "ec3cfcad-fc16-4286-9ee8-ac79d7d61d45",
+                "21225e9b-391b-4277-aab8-c66bb37f1834"
+            ]
+        },
+        "79cd87c5-af60-42ef-8144-1a1b53e9fcce": {
+            "name": "Kiss 3",
+            "rgbhex": "#A1506D",
+            "aspects": {
+                "matt": {
+                    "ref": "80044832",
+                    "url": "https://www.leroymerlin.fr/reflm/80044832"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "96e30fab-636a-413d-b81c-86cea7326bc9"
+            ],
+            "complementary_colors": [
+                "f1b7d6eb-eecc-4c34-a15e-716f1937121a",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "f966675d-dc6a-408f-957f-aaa7e491b538": {
+            "name": "Kiss 4",
+            "rgbhex": "#DCAABB",
+            "aspects": {
+                "matt": {
+                    "ref": "80044846",
+                    "url": "https://www.leroymerlin.fr/reflm/80044846"
+                },
+                "satin": {
+                    "ref": "80041731",
+                    "url": "https://www.leroymerlin.fr/reflm/80041731"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "c66784fd-6ea8-40ea-aaa8-939fb07425b1",
+                "bf8e1e5c-4988-4817-8bce-c3fcc25edf16"
+            ],
+            "complementary_colors": [
+                "79cd87c5-af60-42ef-8144-1a1b53e9fcce",
+                "80d241ca-4227-4dc8-b630-b02582529205"
+            ]
+        },
+        "6efccad9-aa47-4aca-8923-c255a99bc295": {
+            "name": "Kiss 6",
+            "rgbhex": "#EBDBDB",
+            "aspects": {
+                "satin": {
+                    "ref": "80041745",
+                    "url": "https://www.leroymerlin.fr/reflm/80041745"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                "96e30fab-636a-413d-b81c-86cea7326bc9",
+                "5b502b85-1726-41ce-95de-141f1f47a4c8"
+            ],
+            "complementary_colors": [
+                "2472d035-2130-491a-934d-676e1f8eac4b",
+                "96fc56fb-ed65-4f44-a7dd-7a42d7b0509b"
+            ]
+        },
+        "3fb55544-1b02-40be-9ae9-88fae65f2802": {
+            "name": "Pin Up 5",
+            "rgbhex": "#F58FA3",
+            "aspects": {
+                "satin": {
+                    "ref": "80041794",
+                    "url": "https://www.leroymerlin.fr/reflm/80041794"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "76edba13-d14c-4bb3-9584-79279d994163",
+                "a988b462-a69d-4b23-ac5e-c882b95a4b23",
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ],
+            "complementary_colors": [
+                "c88fdd8a-1db9-4bfa-b170-75ea50bcce96",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ]
+        },
+        "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a": {
+            "name": "Pin Up 6",
+            "rgbhex": "#EDB8BA",
+            "aspects": {
+                "satin": {
+                    "ref": "80041773",
+                    "url": "https://www.leroymerlin.fr/reflm/80041773"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "79cd87c5-af60-42ef-8144-1a1b53e9fcce",
+                "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "96e30fab-636a-413d-b81c-86cea7326bc9"
+            ],
+            "complementary_colors": [
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "21225e9b-391b-4277-aab8-c66bb37f1834"
+            ]
+        },
+        "96e30fab-636a-413d-b81c-86cea7326bc9": {
+            "name": "Rose Ecaille",
+            "rgbhex": "#DCC2B1",
+            "aspects": {
+                "velor": {
+                    "ref": "80030314",
+                    "url": "https://www.leroymerlin.fr/reflm/80030314"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "5b502b85-1726-41ce-95de-141f1f47a4c8"
+            ],
+            "complementary_colors": [
+                "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                "32990f63-be68-45b1-94c1-f15615b733eb"
+            ]
+        },
+        "99bee8df-4652-4f23-87e5-9f71d381907e": {
+            "name": "Rose Matinal",
+            "rgbhex": "#E8CEC5",
+            "aspects": {
+                "velor": {
+                    "ref": "80029866",
+                    "url": "https://www.leroymerlin.fr/reflm/80029866"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "a988b462-a69d-4b23-ac5e-c882b95a4b23",
+                "3fb55544-1b02-40be-9ae9-88fae65f2802",
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac"
+            ],
+            "complementary_colors": [
+                "462b5a26-5d44-432b-984e-77a06b6543da",
+                "a988b462-a69d-4b23-ac5e-c882b95a4b23"
+            ]
+        },
+        "3f80b066-7ebe-48b5-8ba8-39e9187eb8e1": {
+            "name": "Bistro 2",
+            "rgbhex": "#955251",
+            "aspects": {
+                "satin": {
+                    "ref": "80040912",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-couleur/peinture-orange-peinture-terracotta/peinture-terracotta/peinture-mur-boiserie-radiateur-multisupports-luxens-bistrot-2-satin-0-5-80040912.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                "37a98658-30b3-4c77-ae36-1cb515ae8fed",
+                "a27e4e23-a3e0-485b-8964-c944a8598e19"
+            ],
+            "complementary_colors": [
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ]
+        },
+        "b980d53e-2cef-4886-b0d3-7f7813d89da8": {
+            "name": "Cabaret 2",
+            "rgbhex": "#7D3443",
+            "aspects": {
+                "satin": {
+                    "ref": "80040926",
+                    "url": "https://www.leroymerlin.fr/reflm/80040926"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "bdddd3ca-b1f6-4c81-9e86-317f12095670",
+                "7925e971-964f-4d7c-9b9f-3c6aaa5fd117"
+            ],
+            "complementary_colors": [
+                "84a0f108-e0e4-4cdd-953d-a6bb8dd0d65b",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0"
+            ]
+        },
+        "d4bb5a54-c4ef-4735-8027-f1d3fc2db963": {
+            "name": "Cabaret 4",
+            "rgbhex": "#D0697B",
+            "aspects": {
+                "satin": {
+                    "ref": "80040954",
+                    "url": "https://www.leroymerlin.fr/reflm/80040954"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "79cd87c5-af60-42ef-8144-1a1b53e9fcce",
+                "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "96e30fab-636a-413d-b81c-86cea7326bc9"
+            ],
+            "complementary_colors": [
+                "2472d035-2130-491a-934d-676e1f8eac4b",
+                "e19ccf4b-f256-40ae-97d1-705ca54e7b64"
+            ]
+        },
+        "7925e971-964f-4d7c-9b9f-3c6aaa5fd117": {
+            "name": "Carmen 2",
+            "rgbhex": "#812630",
+            "aspects": {
+                "matt": {
+                    "ref": "80044482",
+                    "url": "https://www.leroymerlin.fr/reflm/80044482"
+                },
+                "satin": {
+                    "ref": "80041003",
+                    "url": "https://www.leroymerlin.fr/reflm/80041003"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "bdddd3ca-b1f6-4c81-9e86-317f12095670",
+                "b980d53e-2cef-4886-b0d3-7f7813d89da8"
+            ],
+            "complementary_colors": [
+                "989a9dc0-af34-4e87-9382-423173327a00",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "26aed538-fffc-4b8b-ba77-ec128dc6e86a": {
+            "name": "Carmen 3",
+            "rgbhex": "#AE1932",
+            "aspects": {
+                "matt": {
+                    "ref": "80044496",
+                    "url": "https://www.leroymerlin.fr/reflm/80044496"
+                },
+                "satin": {
+                    "ref": "80041010",
+                    "url": "https://www.leroymerlin.fr/reflm/80041010"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "81c6ba73-0c72-4609-93c5-30f0681db32c",
+                "41126f96-5207-4bbf-9887-a8d2557ab4f5",
+                "cf0e0c8b-6600-4603-abe5-5b3cd9196c97"
+            ],
+            "complementary_colors": [
+                "0ab1ecd8-6bc3-48a2-88f1-310aa22af517",
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe"
+            ]
+        },
+        "81c6ba73-0c72-4609-93c5-30f0681db32c": {
+            "name": "Geisha 2",
+            "rgbhex": "#95263C",
+            "aspects": {
+                "satin": {
+                    "ref": "80041024",
+                    "url": "https://www.leroymerlin.fr/reflm/80041024"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "26aed538-fffc-4b8b-ba77-ec128dc6e86a",
+                "41126f96-5207-4bbf-9887-a8d2557ab4f5",
+                "cf0e0c8b-6600-4603-abe5-5b3cd9196c97"
+            ],
+            "complementary_colors": [
+                "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                "ce24b395-20ce-4a24-b73c-6f11755a3db5"
+            ]
+        },
+        "41126f96-5207-4bbf-9887-a8d2557ab4f5": {
+            "name": "Geisha 3",
+            "rgbhex": "#BF384A",
+            "aspects": {
+                "satin": {
+                    "ref": "80041031",
+                    "url": "https://www.leroymerlin.fr/reflm/80041031"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "81c6ba73-0c72-4609-93c5-30f0681db32c",
+                "26aed538-fffc-4b8b-ba77-ec128dc6e86a",
+                "cf0e0c8b-6600-4603-abe5-5b3cd9196c97"
+            ],
+            "complementary_colors": [
+                "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ]
+        },
+        "cf0e0c8b-6600-4603-abe5-5b3cd9196c97": {
+            "name": "Geisha 4",
+            "rgbhex": "#D6394B",
+            "aspects": {
+                "matt": {
+                    "ref": "80044503",
+                    "url": "https://www.leroymerlin.fr/reflm/80044503"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "26aed538-fffc-4b8b-ba77-ec128dc6e86a",
+                "41126f96-5207-4bbf-9887-a8d2557ab4f5",
+                null,
+                "d1565af4-9fd7-4092-8215-6a591553e894"
+            ],
+            "complementary_colors": [
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1"
+            ]
+        },
+        "bdddd3ca-b1f6-4c81-9e86-317f12095670": {
+            "name": "Litchi 1",
+            "rgbhex": "#8C3D45",
+            "aspects": {
+                "matt": {
+                    "ref": "80044510",
+                    "url": "https://www.leroymerlin.fr/reflm/80044510"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "7925e971-964f-4d7c-9b9f-3c6aaa5fd117",
+                "b980d53e-2cef-4886-b0d3-7f7813d89da8"
+            ],
+            "complementary_colors": [
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e"
+            ]
+        },
+        "37a98658-30b3-4c77-ae36-1cb515ae8fed": {
+            "name": "Rouge Laterite",
+            "rgbhex": "#AF6E62",
+            "aspects": {
+                "velor": {
+                    "ref": "80029544",
+                    "url": "https://www.leroymerlin.fr/reflm/80029544"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "3f80b066-7ebe-48b5-8ba8-39e9187eb8e1",
+                "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                "a27e4e23-a3e0-485b-8964-c944a8598e19"
+            ],
+            "complementary_colors": [
+                "ce2ba626-080a-4858-8b9b-b4c8b7846dea",
+                "8a430852-090f-4565-a432-14b6220b8832"
+            ]
+        },
+        "a27e4e23-a3e0-485b-8964-c944a8598e19": {
+            "name": "Rouge Sentier",
+            "rgbhex": "#B49084",
+            "aspects": {
+                "velor": {
+                    "ref": "80029530",
+                    "url": "https://www.leroymerlin.fr/reflm/80029530"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                "37a98658-30b3-4c77-ae36-1cb515ae8fed"
+            ],
+            "complementary_colors": [
+                "8a430852-090f-4565-a432-14b6220b8832",
+                "ec934727-5a9c-4f02-ad01-03540d6eb400"
+            ]
+        },
+        "4530ff6f-bf7f-4b32-bd23-18f6fe67385c": {
+            "name": "Rouge Terracotta",
+            "rgbhex": "#8A4D4E",
+            "aspects": {
+                "velor": {
+                    "ref": "80030335",
+                    "url": "https://www.leroymerlin.fr/reflm/80030335"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "3f80b066-7ebe-48b5-8ba8-39e9187eb8e1",
+                "37a98658-30b3-4c77-ae36-1cb515ae8fed",
+                "a27e4e23-a3e0-485b-8964-c944a8598e19"
+            ],
+            "complementary_colors": [
+                "96e30fab-636a-413d-b81c-86cea7326bc9",
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd"
+            ]
+        },
+        "648ae703-ccc0-4910-abde-a95ce2ae350c": {
+            "name": "Bali 1",
+            "rgbhex": "#547453",
+            "aspects": {
+                "satin": {
+                    "ref": "82734995",
+                    "url": "https://www.leroymerlin.fr/produits/decoration-eclairage/decouvrez-nos-tendances/tendance-glamping/peinture-mur-boiserie-radiateur-luxens-bali-1-satine-0-5-l-82734995.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                "7769d980-af5d-415c-8a1e-244b599de2f8",
+                "fe263ae2-16d6-4c9e-810b-46284789a288",
+                "aa845c97-ac9e-42fc-9e33-30af4ea23296"
+            ],
+            "complementary_colors": [
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d",
+                "4d62459b-648b-49cf-a5ea-62e2c85c1828"
+            ]
+        },
+        "0953273f-2b0c-4f6d-89a4-4172f05a0a39": {
+            "name": "Cactus 5",
+            "rgbhex": "#A5BEA4",
+            "aspects": {
+                "matt": {
+                    "ref": "80044594",
+                    "url": "https://www.leroymerlin.fr/reflm/80044594"
+                },
+                "velor": {
+                    "ref": "84865080",
+                    "url": "https://www.leroymerlin.fr/reflm/84865080"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                "7769d980-af5d-415c-8a1e-244b599de2f8",
+                "fe263ae2-16d6-4c9e-810b-46284789a288",
+                "aa845c97-ac9e-42fc-9e33-30af4ea23296"
+            ],
+            "complementary_colors": [
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                "894da900-92a3-4aef-9dbc-ad428bf11ecb"
+            ]
+        },
+        "6ee1b649-21f0-48ba-bfae-1f6fc01ca218": {
+            "name": "Cactus 6",
+            "rgbhex": "#ADC3B7",
+            "aspects": {
+                "satin": {
+                    "ref": "80041185",
+                    "url": "https://www.leroymerlin.fr/reflm/80041185"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "37f397f6-908c-46eb-8851-f12adefb4e41"
+            ],
+            "complementary_colors": [
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "fd1afba1-f2bb-46b8-b4c4-3ed3f7de5f72"
+            ]
+        },
+        "8b7c04df-8e69-43d5-b62b-21c9e7da2e34": {
+            "name": "Forest 4",
+            "rgbhex": "#A4B279",
+            "aspects": {
+                "matt": {
+                    "ref": "80044601",
+                    "url": "https://www.leroymerlin.fr/reflm/80044601"
+                },
+                "satin": {
+                    "ref": "84875213",
+                    "url": "https://www.leroymerlin.fr/reflm/84875213"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                "331d3098-5389-493c-ab64-cfac979de4cb"
+            ],
+            "complementary_colors": [
+                "7ef39280-1f86-497d-afa4-361ac85cf2dd",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "fe263ae2-16d6-4c9e-810b-46284789a288": {
+            "name": "Jungle 4",
+            "rgbhex": "#80A867",
+            "aspects": {
+                "satin": {
+                    "ref": "80041241",
+                    "url": "https://www.leroymerlin.fr/reflm/80041241"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                "7769d980-af5d-415c-8a1e-244b599de2f8",
+                "aa845c97-ac9e-42fc-9e33-30af4ea23296",
+                "0953273f-2b0c-4f6d-89a4-4172f05a0a39"
+            ],
+            "complementary_colors": [
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0"
+            ]
+        },
+        "8c4aa591-1b94-4c5b-85fc-430ab3f046e4": {
+            "name": "Laguna 2",
+            "rgbhex": "#517470",
+            "aspects": {
+                "satin": {
+                    "ref": "80041255",
+                    "url": "https://www.leroymerlin.fr/reflm/80041255"
+                },
+                "velor": {
+                    "ref": "84865055",
+                    "url": "https://www.leroymerlin.fr/reflm/84865055"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3655c6b1-96b4-4e4d-802e-532fcbe5f675",
+                "0b3d3926-fb19-4c65-af13-384fccce5c9c",
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "504d2638-c6aa-44dd-9cac-5b71f1165e24"
+            ],
+            "complementary_colors": [
+                "15808957-5822-45cb-924b-806a88d778cc",
+                "2ccd7993-9441-46d7-8bd2-c16e537d8899"
+            ]
+        },
+        "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40": {
+            "name": "Denim 1",
+            "rgbhex": "#325477",
+            "aspects": {
+                "matt": {
+                    "ref": "84316352",
+                    "url": "https://www.leroymerlin.fr/reflm/84316352"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "20e8b7aa-35e6-42c6-a60a-4172c2099f05",
+                "e5879814-9d17-4a60-b001-c31354194a05",
+                "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ],
+            "complementary_colors": [
+                "ce24b395-20ce-4a24-b73c-6f11755a3db5",
+                "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef"
+            ]
+        },
+        "1b287099-17fc-498b-8b96-ec3b525b0871": {
+            "name": "Mint 3",
+            "rgbhex": "#71A59C",
+            "aspects": {
+                "satin": {
+                    "ref": "80041276",
+                    "url": "https://www.leroymerlin.fr/reflm/80041276"
+                },
+                "matt": {
+                    "ref": "84864757",
+                    "url": "https://www.leroymerlin.fr/reflm/84864757"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                "0b3d3926-fb19-4c65-af13-384fccce5c9c",
+                "504d2638-c6aa-44dd-9cac-5b71f1165e24"
+            ],
+            "complementary_colors": [
+                null,
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7": {
+            "name": "Wake 3",
+            "rgbhex": "#858A62",
+            "aspects": {
+                "matt": {
+                    "ref": "84316390",
+                    "url": "https://www.leroymerlin.fr/reflm/84316390"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "3897f304-b59c-4ab8-b447-9d3c9713b02c",
+                "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                "8b7c04df-8e69-43d5-b62b-21c9e7da2e34"
+            ],
+            "complementary_colors": [
+                "010b5147-06ee-4ea6-ae32-b9bc154ae803",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9"
+            ]
+        },
+        "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340": {
+            "name": "Terra 5",
+            "rgbhex": "#C1AE9C",
+            "aspects": {
+                "satin": {
+                    "ref": "80040842",
+                    "url": "https://www.leroymerlin.fr/reflm/80040842"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e",
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "bf49d6cd-e193-436d-a782-85757eafd27c",
+                "8199444d-8e1d-46e3-9c41-6406ca80226e"
+            ],
+            "complementary_colors": [
+                null,
+                "90deb150-9bd1-4f27-94e2-f3c9bb500669"
+            ]
+        },
+        "e63741ea-4759-431b-bbc4-92d9ad4e1908": {
+            "name": "Sage 3",
+            "rgbhex": "#84958D",
+            "aspects": {
+                "satin": {
+                    "ref": "80040541",
+                    "url": "https://www.leroymerlin.fr/reflm/80040541"
+                },
+                "matt": {
+                    "ref": "89110591",
+                    "url": "https://www.leroymerlin.fr/reflm/89110591"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "d422b4d4-ca9e-4cf5-aa4f-d811ceb6459c",
+                "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "37f397f6-908c-46eb-8851-f12adefb4e41"
+            ],
+            "complementary_colors": [
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8"
+            ]
+        },
+        "ea39c5e1-2337-4cd8-a0e5-f107f1676793": {
+            "name": "Sage 4",
+            "rgbhex": "#A4B0AC",
+            "aspects": {
+                "satin": {
+                    "ref": "80040555",
+                    "url": "https://www.leroymerlin.fr/reflm/80040555"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                "37f397f6-908c-46eb-8851-f12adefb4e41",
+                "6ee1b649-21f0-48ba-bfae-1f6fc01ca218"
+            ],
+            "complementary_colors": [
+                "bec20016-6974-4bf9-9715-92670418d093",
+                "e130618c-f309-46db-9286-66c13c92d2e0"
+            ]
+        },
+        "d9ea7a30-cf77-41c2-b2d5-06d70190111d": {
+            "name": "Sage 5",
+            "rgbhex": "#B8C3B5",
+            "aspects": {
+                "satin": {
+                    "ref": "80040562",
+                    "url": "https://www.leroymerlin.fr/reflm/80040562"
+                },
+                "matt": {
+                    "ref": "84864866",
+                    "url": "https://www.leroymerlin.fr/reflm/84864866"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "f3d60d8d-ee5e-44e1-97da-9c0add10dd15",
+                "11ae60f1-410e-456f-a1c6-6f53d0b580c3",
+                "bd02f2da-2b6f-4425-b8b2-5c3416475f3c"
+            ],
+            "complementary_colors": [
+                "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                "2f8dc12e-c02e-4f92-8530-4549677504e7"
+            ]
+        },
+        "fe4acc5d-c89f-418c-a789-582d2573d371": {
+            "name": "VERT ARGILE",
+            "rgbhex": "#B2A176",
+            "aspects": {
+                "velor": {
+                    "ref": "85364460",
+                    "url": "https://www.leroymerlin.fr/reflm/85364460"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "d02cb146-2e8a-4cf7-9a7f-02a64fc2b556",
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd",
+                "12d7c593-b903-4949-9fac-92ca3064ba54",
+                "589013da-b642-4fb4-9f90-3672b7f9c652"
+            ],
+            "complementary_colors": [
+                "32990f63-be68-45b1-94c1-f15615b733eb",
+                "8199444d-8e1d-46e3-9c41-6406ca80226e"
+            ]
+        },
+        "ae6dbb4e-6df9-4324-b5fa-5a73300700dd": {
+            "name": "VERT FUME",
+            "rgbhex": "#9F9E8F",
+            "aspects": {
+                "velor": {
+                    "ref": "85364549",
+                    "url": "https://www.leroymerlin.fr/reflm/85364549"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "d02cb146-2e8a-4cf7-9a7f-02a64fc2b556",
+                "fe4acc5d-c89f-418c-a789-582d2573d371",
+                "12d7c593-b903-4949-9fac-92ca3064ba54",
+                "589013da-b642-4fb4-9f90-3672b7f9c652"
+            ],
+            "complementary_colors": []
+        },
+        "12d7c593-b903-4949-9fac-92ca3064ba54": {
+            "name": "VERT MOUSSON",
+            "rgbhex": "#B6B6A3",
+            "aspects": {
+                "velor": {
+                    "ref": "85364493",
+                    "url": "https://www.leroymerlin.fr/reflm/85364493"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "fe4acc5d-c89f-418c-a789-582d2573d371",
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd",
+                "589013da-b642-4fb4-9f90-3672b7f9c652"
+            ],
+            "complementary_colors": [
+                "99bee8df-4652-4f23-87e5-9f71d381907e",
+                "bd02f2da-2b6f-4425-b8b2-5c3416475f3c"
+            ]
+        },
+        "bd02f2da-2b6f-4425-b8b2-5c3416475f3c": {
+            "name": "Vert Rivage",
+            "rgbhex": "#84968E",
+            "aspects": {
+                "velor": {
+                    "ref": "85364499",
+                    "url": "https://www.leroymerlin.fr/reflm/85364499"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "f3d60d8d-ee5e-44e1-97da-9c0add10dd15",
+                "11ae60f1-410e-456f-a1c6-6f53d0b580c3",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ],
+            "complementary_colors": [
+                "fce32df2-e827-411c-a755-0009339213f5",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ]
+        },
+        "ce2ba626-080a-4858-8b9b-b4c8b7846dea": {
+            "name": "Litchi 2",
+            "rgbhex": "#A33546",
+            "aspects": {
+                "matt": {
+                    "ref": "84316357",
+                    "url": "https://www.leroymerlin.fr/reflm/84316357"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "7925e971-964f-4d7c-9b9f-3c6aaa5fd117",
+                "b980d53e-2cef-4886-b0d3-7f7813d89da8"
+            ],
+            "complementary_colors": [
+                "ec934727-5a9c-4f02-ad01-03540d6eb400",
+                "7e26d2a0-2618-4df0-8e4c-782ea743e06d"
+            ]
+        },
+        "04f70c07-e94e-4366-b523-916534e82cdf": {
+            "name": "Berry 3",
+            "rgbhex": "#7F4D64",
+            "aspects": {
+                "matt": {
+                    "ref": "80044755",
+                    "url": "https://www.leroymerlin.fr/reflm/80044755"
+                },
+                "satin": {
+                    "ref": "80041563",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-couleur/peinture-violet/peinture-mur-boiserie-radiateur-multisupports-luxens-berry-3-satine-0-5-l-80041563.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "ec3cfcad-fc16-4286-9ee8-ac79d7d61d45",
+                "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                "217cdd96-c9fb-4577-82e0-0392eb4cf357"
+            ],
+            "complementary_colors": [
+                "de51aeea-9400-4bab-a466-e39b15b960bb",
+                "a25e9655-3f2d-4f0f-8e41-66a6cb800a80"
+            ]
+        },
+        "d26b8665-a5d5-4b9c-a7d2-b64f87ada626": {
+            "name": "Berry 5",
+            "rgbhex": "#B1869F",
+            "aspects": {
+                "matt": {
+                    "ref": "80044762",
+                    "url": "https://www.leroymerlin.fr/reflm/80044762"
+                },
+                "satin": {
+                    "ref": "80041570",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-couleur/peinture-violet/peinture-mur-boiserie-radiateur-multisupports-luxens-berry-5-satine-0-5-l-80041570.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "04f70c07-e94e-4366-b523-916534e82cdf",
+                "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                "217cdd96-c9fb-4577-82e0-0392eb4cf357",
+                "462b5a26-5d44-432b-984e-77a06b6543da"
+            ],
+            "complementary_colors": [
+                "c80b29f5-580a-4bf3-a51d-8e38e0dfbbab",
+                "53b090c8-7288-44ac-8e90-a31fac1e503b"
+            ]
+        },
+        "217cdd96-c9fb-4577-82e0-0392eb4cf357": {
+            "name": "Berry 6",
+            "rgbhex": "#CFAFC2",
+            "aspects": {
+                "satin": {
+                    "ref": "80041584",
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-interieure/peinture-couleur/peinture-violet/peinture-mur-boiserie-radiateur-multisupports-luxens-berry-6-satine-0-5-l-80041584.html"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "04f70c07-e94e-4366-b523-916534e82cdf",
+                "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                "462b5a26-5d44-432b-984e-77a06b6543da"
+            ],
+            "complementary_colors": [
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b",
+                "300abd54-7b44-4266-9ae9-d7a1d0051b8e"
+            ]
+        },
+        "415893db-72c2-4413-9dd6-7a89ae94384f": {
+            "name": "Elixir 3",
+            "rgbhex": "#734D85",
+            "aspects": {
+                "matt": {
+                    "ref": "80044776",
+                    "url": "https://www.leroymerlin.fr/reflm/80044776"
+                },
+                "satin": {
+                    "ref": "80041612",
+                    "url": "https://www.leroymerlin.fr/reflm/80041612"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "0da175ca-6f26-4963-830c-4667e0dcf66c",
+                "ec6a053e-985d-456f-80a3-632324b753f3",
+                "6c6cbdac-068b-4201-a234-71b9a7b41019"
+            ],
+            "complementary_colors": [
+                "fd1afba1-f2bb-46b8-b4c4-3ed3f7de5f72",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0"
+            ]
+        },
+        "ec6a053e-985d-456f-80a3-632324b753f3": {
+            "name": "Elixir 4",
+            "rgbhex": "#8F69A5",
+            "aspects": {
+                "satin": {
+                    "ref": "80041626",
+                    "url": "https://www.leroymerlin.fr/reflm/80041626"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "0da175ca-6f26-4963-830c-4667e0dcf66c",
+                "415893db-72c2-4413-9dd6-7a89ae94384f",
+                "6c6cbdac-068b-4201-a234-71b9a7b41019"
+            ],
+            "complementary_colors": [
+                "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                "7d83662e-72fa-42b6-8979-e402ab2310d0"
+            ]
+        },
+        "6c6cbdac-068b-4201-a234-71b9a7b41019": {
+            "name": "Elixir 6",
+            "rgbhex": "#BEB3CF",
+            "aspects": {
+                "matt": {
+                    "ref": "80044783",
+                    "url": "https://www.leroymerlin.fr/reflm/80044783"
+                },
+                "satin": {
+                    "ref": "80041633",
+                    "url": "https://www.leroymerlin.fr/reflm/80041633"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "415893db-72c2-4413-9dd6-7a89ae94384f",
+                "ec6a053e-985d-456f-80a3-632324b753f3"
+            ],
+            "complementary_colors": [
+                "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                "894da900-92a3-4aef-9dbc-ad428bf11ecb"
+            ]
+        },
+        "ec3cfcad-fc16-4286-9ee8-ac79d7d61d45": {
+            "name": "Lotus 1",
+            "rgbhex": "#873260",
+            "aspects": {
+                "satin": {
+                    "ref": "80041752",
+                    "url": "https://www.leroymerlin.fr/reflm/80041752"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "04f70c07-e94e-4366-b523-916534e82cdf",
+                "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                "217cdd96-c9fb-4577-82e0-0392eb4cf357"
+            ],
+            "complementary_colors": [
+                "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf"
+            ]
+        },
+        "462b5a26-5d44-432b-984e-77a06b6543da": {
+            "name": "Mauve Aurore",
+            "rgbhex": "#B7A3A9",
+            "aspects": {
+                "velor": {
+                    "ref": "80029873",
+                    "url": "https://www.leroymerlin.fr/reflm/80029873"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "04f70c07-e94e-4366-b523-916534e82cdf",
+                "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                "217cdd96-c9fb-4577-82e0-0392eb4cf357"
+            ],
+            "complementary_colors": []
+        },
+        "0da175ca-6f26-4963-830c-4667e0dcf66c": {
+            "name": "Orchid 2",
+            "rgbhex": "#755C78",
+            "aspects": {
+                "satin": {
+                    "ref": "80041640",
+                    "url": "https://www.leroymerlin.fr/reflm/80041640"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "415893db-72c2-4413-9dd6-7a89ae94384f",
+                "ec6a053e-985d-456f-80a3-632324b753f3",
+                "6c6cbdac-068b-4201-a234-71b9a7b41019"
+            ],
+            "complementary_colors": [
+                "2472d035-2130-491a-934d-676e1f8eac4b",
+                "96fc56fb-ed65-4f44-a7dd-7a42d7b0509b"
+            ]
+        },
+        "77f96b1a-e803-4ed5-ba45-73b6b4ea2412": {
+            "name": "Orchid 5",
+            "rgbhex": "#B78BB0",
+            "aspects": {
+                "matt": {
+                    "ref": "80044790",
+                    "url": "https://www.leroymerlin.fr/reflm/80044790"
+                },
+                "satin": {
+                    "ref": "80041654",
+                    "url": "https://www.leroymerlin.fr/reflm/80041654"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "ec3cfcad-fc16-4286-9ee8-ac79d7d61d45",
+                "04f70c07-e94e-4366-b523-916534e82cdf",
+                "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                "217cdd96-c9fb-4577-82e0-0392eb4cf357"
+            ],
+            "complementary_colors": [
+                "ffcc97e5-f6e2-4659-b797-c5fc07f99bee",
+                "aa2261c2-2704-4654-8f99-9c8c712b37e3"
+            ]
+        },
+        "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd": {
+            "name": "Santal 4",
+            "rgbhex": "#AD9194",
+            "aspects": {
+                "satin": {
+                    "ref": "84875261",
+                    "url": "https://www.leroymerlin.fr/reflm/84875261"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "bec20016-6974-4bf9-9715-92670418d093",
+                "9bea77a9-2129-4e75-865b-80a45d2b8f4b",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae",
+                "a872e0a4-6e89-45c5-a59c-31541902aaec"
+            ],
+            "complementary_colors": [
+                "aa2261c2-2704-4654-8f99-9c8c712b37e3",
+                "dd731ade-bf29-4bfa-978c-41e5c60d49ed"
+            ]
+        },
+        "a988b462-a69d-4b23-ac5e-c882b95a4b23": {
+            "name": "Rose Boréal",
+            "rgbhex": "#D38386",
+            "aspects": {
+                "velor": {
+                    "url": "https://www.leroymerlin.fr/produits/peinture-droguerie/peinture-par-piece/peinture-salon-sejour-piece-a-vivre/un-salon-art-deco/peinture-depolluante-mur-boiserie-radiateur-envie-rose-boreal-velours-0-5-l-80029964.html",
+                    "ref": "80029964"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "76edba13-d14c-4bb3-9584-79279d994163",
+                "3fb55544-1b02-40be-9ae9-88fae65f2802",
+                "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ],
+            "complementary_colors": [
+                "0c10efce-4890-4aef-9ae1-0d9685414fb0",
+                "99bee8df-4652-4f23-87e5-9f71d381907e"
+            ]
+        },
+        "5b502b85-1726-41ce-95de-141f1f47a4c8": {
+            "name": "Rose bonbon",
+            "rgbhex": "#E853A0",
+            "aspects": {
+                "matt": {
+                    "ref": "5654327",
+                    "url": "https://www.leroymerlin.fr/reflm/80044482"
+                },
+                "satin": {
+                    "ref": "897654",
+                    "url": "https://www.leroymerlin.fr/reflm/80044482"
+                },
+                "velor": {
+                    "ref": "678976",
+                    "url": "https://www.leroymerlin.fr/reflm/80044482"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                "6efccad9-aa47-4aca-8923-c255a99bc295",
+                "96e30fab-636a-413d-b81c-86cea7326bc9"
+            ],
+            "complementary_colors": []
+        },
+        "a872e0a4-6e89-45c5-a59c-31541902aaec": {
+            "name": "Beige souffle",
+            "rgbhex": "#C9B4AB",
+            "aspects": {
+                "velor": {
+                    "ref": "85364542",
+                    "url": "https://www.leroymerlin.fr/reflm/85364542"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "9bea77a9-2129-4e75-865b-80a45d2b8f4b",
+                "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd",
+                "f0334915-05bb-4186-8ac0-c1a4d81ec6ae",
+                "2472d035-2130-491a-934d-676e1f8eac4b"
+            ],
+            "complementary_colors": []
+        },
+        "4adedc29-cd72-48b8-85c6-9f04b12ceaf8": {
+            "name": "Blanc Nuage",
+            "rgbhex": "#FFFFFF",
+            "aspects": {
+                "velor": {
+                    "ref": "85364458",
+                    "url": "https://www.leroymerlin.fr/reflm/85364458"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "4d62459b-648b-49cf-a5ea-62e2c85c1828",
+                "af81f431-facf-41d4-afb2-0cdc87705a46",
+                "7c95b1fe-dc86-4226-bdc9-f1ea9696c7bb"
+            ],
+            "complementary_colors": []
+        },
+        "7c95b1fe-dc86-4226-bdc9-f1ea9696c7bb": {
+            "name": "Blanc Envie ",
+            "rgbhex": "#F2F0E8",
+            "aspects": {
+                "velor": {
+                    "ref": "85364535",
+                    "url": "https://www.leroymerlin.fr/reflm/85364535"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "4d62459b-648b-49cf-a5ea-62e2c85c1828",
+                "af81f431-facf-41d4-afb2-0cdc87705a46"
+            ],
+            "complementary_colors": []
+        },
+        "995652e1-6e6c-4b8a-ae9d-7bce73462f43": {
+            "name": "Bleu minéral",
+            "rgbhex": "#677E94",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                "562761eb-f366-410d-8e70-b3d71c7ac670"
+            ],
+            "complementary_colors": []
+        },
+        "24c9e72f-c9a3-4a8a-95fd-97faf310e351": {
+            "name": "Oxyde bleu",
+            "rgbhex": "#31547D",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "7836acfa-4b6f-4a8b-a9b9-8e752ee31f1e",
+                "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                "995652e1-6e6c-4b8a-ae9d-7bce73462f43"
+            ],
+            "complementary_colors": []
+        },
+        "5bc1d4c4-0626-48a6-adf7-efeff8651a1d": {
+            "name": "EVA 5",
+            "rgbhex": "#E7D7CD",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "307fe051-8908-4fea-9d2b-f21b3662da43",
+                "7c24e945-3147-489e-9597-64feaee373e7",
+                "33586940-5448-45f3-9780-138dd2b9d43e",
+                "21225e9b-391b-4277-aab8-c66bb37f1834"
+            ],
+            "complementary_colors": []
+        },
+        "6b821e6c-f256-43c7-a86c-7f9f026ee120": {
+            "name": "Brun cuir",
+            "rgbhex": "#8E5B45",
+            "aspects": {
+                "velor": {
+                    "ref": "85364444",
+                    "url": "https://www.leroymerlin.fr/reflm/85364444"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d"
+            ],
+            "complementary_colors": []
+        },
+        "c9793c6a-b1d2-446c-bdc2-ddce420d7a68": {
+            "name": "Brun Noisetier",
+            "rgbhex": "#AB8069",
+            "aspects": {
+                "velor": {
+                    "ref": "85364569",
+                    "url": "https://www.leroymerlin.fr/reflm/85364569"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "6b821e6c-f256-43c7-a86c-7f9f026ee120",
+                "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d"
+            ],
+            "complementary_colors": []
+        },
+        "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df": {
+            "name": "brun delicat",
+            "rgbhex": "#C19B85",
+            "aspects": {
+                "velor": {
+                    "ref": "85364483",
+                    "url": "https://www.leroymerlin.fr/reflm/85364483"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "6b821e6c-f256-43c7-a86c-7f9f026ee120",
+                "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d"
+            ],
+            "complementary_colors": []
+        },
+        "ec2aba55-2e0a-4e68-b432-40a5c2292e6b": {
+            "name": "Beige dune",
+            "rgbhex": "#D4B293",
+            "aspects": {
+                "velor": {
+                    "ref": "85364594",
+                    "url": "https://www.leroymerlin.fr/reflm/85364594"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d",
+                "8dbd739e-6642-41ae-b2d8-b14b28b4548d"
+            ],
+            "complementary_colors": []
+        },
+        "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d": {
+            "name": "Beige lumière",
+            "rgbhex": "#EBD6C2",
+            "aspects": {
+                "velor": {
+                    "ref": "85364446",
+                    "url": "https://www.leroymerlin.fr/reflm/85364446"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                "8dbd739e-6642-41ae-b2d8-b14b28b4548d"
+            ],
+            "complementary_colors": []
+        },
+        "8dbd739e-6642-41ae-b2d8-b14b28b4548d": {
+            "name": "Havana 6",
+            "rgbhex": "#EBD4BF",
+            "aspects": {
+                "satin": {
+                    "ref": "84874919",
+                    "url": "https://www.leroymerlin.fr/reflm/84874919"
+                },
+                "velor": {
+                    "ref": "84865112",
+                    "url": "https://www.leroymerlin.fr/reflm/84865112"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d"
+            ],
+            "complementary_colors": []
+        },
+        "9988aeb6-2ec0-4e9a-a46c-63deb90322a9": {
+            "name": "Brun Tanné",
+            "rgbhex": "#A2815E",
+            "aspects": {
+                "velor": {
+                    "ref": "85364507",
+                    "url": "https://www.leroymerlin.fr/reflm/85364507"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                "8958f818-e934-4c99-b826-de1c48063980",
+                "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ],
+            "complementary_colors": []
+        },
+        "cbf7c4da-5be4-4c1b-849d-2d470635258e": {
+            "name": "Kenya 4",
+            "rgbhex": "#B5A083",
+            "aspects": {
+                "satin": {
+                    "ref": "84874950",
+                    "url": "https://www.leroymerlin.fr/reflm/84874950"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "9988aeb6-2ec0-4e9a-a46c-63deb90322a9",
+                "8958f818-e934-4c99-b826-de1c48063980",
+                "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ],
+            "complementary_colors": []
+        },
+        "8958f818-e934-4c99-b826-de1c48063980": {
+            "name": "Kenya 5",
+            "rgbhex": "#D3C09B",
+            "aspects": {
+                "satin": {
+                    "ref": "84874963",
+                    "url": "https://www.leroymerlin.fr/reflm/84874963"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "9988aeb6-2ec0-4e9a-a46c-63deb90322a9",
+                "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ],
+            "complementary_colors": []
+        },
+        "ec4c89d1-1b71-4632-b799-7573acf0cb0c": {
+            "name": "Pecan 6",
+            "rgbhex": "#DAC29C",
+            "aspects": {
+                "satin": {
+                    "ref": "84875022",
+                    "url": "https://www.leroymerlin.fr/reflm/84875022"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                "8958f818-e934-4c99-b826-de1c48063980",
+                "fce32df2-e827-411c-a755-0009339213f5",
+                "a7649e4b-62d2-4065-92dc-c58e5824f5d1"
+            ],
+            "complementary_colors": []
+        },
+        "0b8106d9-4334-4c7f-ad13-558dfc61b079": {
+            "name": "Noir Luxens",
+            "rgbhex": "#343333",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "33a763fd-54f1-4fca-ad04-a9c8a2c4f154",
+                "a40edbc3-21e3-4128-a023-3d6f5076b952",
+                "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6",
+                "cc8975ce-9dd3-4bb7-a472-f95506892159"
+            ],
+            "complementary_colors": []
+        },
+        "a7649e4b-62d2-4065-92dc-c58e5824f5d1": {
+            "name": "Najavo 6",
+            "rgbhex": "#D7D0BC",
+            "aspects": {
+                "satin": {
+                    "ref": "84874852",
+                    "url": "https://www.leroymerlin.fr/reflm/84874852"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                "8958f818-e934-4c99-b826-de1c48063980",
+                "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                "fce32df2-e827-411c-a755-0009339213f5"
+            ],
+            "complementary_colors": []
+        },
+        "6b726bbf-ffb7-45f4-bbf3-378e5de66db0": {
+            "name": "Moka 2",
+            "rgbhex": "#645349",
+            "aspects": {
+                "satin": {
+                    "ref": "84874979",
+                    "url": "https://www.leroymerlin.fr/reflm/84874979"
+                }
+            },
+            "brand_id": "Luxens",
+            "adjacent_colors": [
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e",
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "bf49d6cd-e193-436d-a782-85757eafd27c",
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340"
+            ],
+            "complementary_colors": []
+        },
+        "bf49d6cd-e193-436d-a782-85757eafd27c": {
+            "name": "Beige Originel",
+            "rgbhex": "#B7A899",
+            "aspects": {
+                "velor": {
+                    "ref": "85364579",
+                    "url": "https://www.leroymerlin.fr/reflm/85364579"
+                }
+            },
+            "brand_id": "Envie",
+            "adjacent_colors": [
+                "fdfd122f-c522-4f53-86ce-8433a9657c0e",
+                "319fa828-523a-4953-998c-28540b68c6d6",
+                "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340",
+                "8199444d-8e1d-46e3-9c41-6406ca80226e"
+            ],
+            "complementary_colors": []
+        },
+        "e5f5fe6a-e73e-4622-9506-0ea3b5971a99": {
+            "name": "Gris Graphite",
+            "rgbhex": "#787877",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                "e75abf75-c2c3-4035-b45f-0621fe381a03",
+                "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf"
+            ],
+            "complementary_colors": []
+        },
+        "33a763fd-54f1-4fca-ad04-a9c8a2c4f154": {
+            "name": "Noir Fusain",
+            "rgbhex": "#3C3E40",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "0b8106d9-4334-4c7f-ad13-558dfc61b079",
+                "a40edbc3-21e3-4128-a023-3d6f5076b952",
+                "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6",
+                "cc8975ce-9dd3-4bb7-a472-f95506892159"
+            ],
+            "complementary_colors": []
+        },
+        "20e8b7aa-35e6-42c6-a60a-4172c2099f05": {
+            "name": "Balsa 0",
+            "rgbhex": "#2F3441",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                "e5879814-9d17-4a60-b001-c31354194a05",
+                "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ],
+            "complementary_colors": []
+        },
+        "e5879814-9d17-4a60-b001-c31354194a05": {
+            "name": "Sloop 2",
+            "rgbhex": "#3E6A93",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "20e8b7aa-35e6-42c6-a60a-4172c2099f05",
+                "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b"
+            ],
+            "complementary_colors": []
+        },
+        "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5": {
+            "name": "Balsa 4",
+            "rgbhex": "#7198BB",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                "e5879814-9d17-4a60-b001-c31354194a05",
+                "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b",
+                "894da900-92a3-4aef-9dbc-ad428bf11ecb"
+            ],
+            "complementary_colors": []
+        },
+        "2c8d6c7b-604f-45d5-a98b-7403f0add867": {
+            "name": "Bleu Cirrus",
+            "rgbhex": "#ACBAC5",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "c6a66207-dc53-476c-a064-686893bbc22d",
+                "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a",
+                "7ad3c0ec-3817-409b-896b-e087fe3f0c6d"
+            ],
+            "complementary_colors": []
+        },
+        "daf5f6d6-53ca-4360-b952-fdb9a77e079a": {
+            "name": "Ibiza ",
+            "rgbhex": "#3BB3D0",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "aa2261c2-2704-4654-8f99-9c8c712b37e3",
+                "c6a66207-dc53-476c-a064-686893bbc22d",
+                "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                "ec1eee63-141f-4a3c-90da-c79c64055c3a"
+            ],
+            "complementary_colors": []
+        },
+        "ab488dba-e237-433c-988e-61ace90e1e7d": {
+            "name": "Bleu Orage",
+            "rgbhex": "#77898D",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "ae00e089-7fb4-4652-a7cc-01e360d6dd8c",
+                "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "e8c766d7-2e91-40c1-b8a1-723b635ae2e3"
+            ],
+            "complementary_colors": []
+        },
+        "8af709ac-376f-4a29-85a5-21819a1db05e": {
+            "name": "Bleu Aerien",
+            "rgbhex": "#CBD4D5",
+            "aspects": {},
+            "brand_id": null,
+            "adjacent_colors": [
+                "ab488dba-e237-433c-988e-61ace90e1e7d",
+                "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "e8c766d7-2e91-40c1-b8a1-723b635ae2e3"
+            ],
+            "complementary_colors": []
+        },
+        "29729dea-a349-47e2-a049-77d1d8ece2be": {
+            "name": "Blanc Givré",
+            "rgbhex": "#DCE0DB",
+            "aspects": {
+                "velor": {
+                    "url": "https://www.leroymerlin.fr/reflm/85364510",
+                    "ref": "85364510"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                "ffbea54d-fd4d-4a55-be4e-849880decab8",
+                "32e5ade9-ae4a-4aab-8185-02369ff9dd5a"
+            ],
+            "complementary_colors": []
+        },
+        "3655c6b1-96b4-4e4d-802e-532fcbe5f675": {
+            "name": "OMBRE BLEUE",
+            "rgbhex": "#415B60",
+            "aspects": {
+                "velor": {
+                    "ref": "85364564",
+                    "url": "https://www.leroymerlin.fr/reflm/85364564"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                "0b3d3926-fb19-4c65-af13-384fccce5c9c",
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "504d2638-c6aa-44dd-9cac-5b71f1165e24"
+            ],
+            "complementary_colors": []
+        },
+        "0b3d3926-fb19-4c65-af13-384fccce5c9c": {
+            "name": "EMERALD 2",
+            "rgbhex": "#318284",
+            "aspects": {
+                "satin": {
+                    "ref": "80041192",
+                    "url": "https://www.leroymerlin.fr/reflm/80041192"
+                },
+                "velor": {
+                    "ref": "84865096",
+                    "url": "https://www.leroymerlin.fr/reflm/84865096"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "3655c6b1-96b4-4e4d-802e-532fcbe5f675",
+                "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                "1b287099-17fc-498b-8b96-ec3b525b0871",
+                "504d2638-c6aa-44dd-9cac-5b71f1165e24"
+            ],
+            "complementary_colors": []
+        },
+        "504d2638-c6aa-44dd-9cac-5b71f1165e24": {
+            "name": "MINT 6",
+            "rgbhex": "#BCE7D6",
+            "aspects": {
+                "satin": {
+                    "ref": "84875262",
+                    "url": "https://www.leroymerlin.fr/reflm/84875262"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                "0b3d3926-fb19-4c65-af13-384fccce5c9c",
+                "1b287099-17fc-498b-8b96-ec3b525b0871"
+            ],
+            "complementary_colors": []
+        },
+        "e8c766d7-2e91-40c1-b8a1-723b635ae2e3": {
+            "name": "CELADON 4",
+            "rgbhex": "#9EBAB9",
+            "aspects": {
+                "satin": {
+                    "ref": "82735020",
+                    "url": "https://www.leroymerlin.fr/reflm/82735020"
+                },
+                "velor": {
+                    "ref": "84865086",
+                    "url": "https://www.leroymerlin.fr/reflm/82735020"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "ab488dba-e237-433c-988e-61ace90e1e7d",
+                "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                "d4999bab-9515-4df5-a544-9c11125349c2",
+                "8af709ac-376f-4a29-85a5-21819a1db05e"
+            ],
+            "complementary_colors": []
+        },
+        "d422b4d4-ca9e-4cf5-aa4f-d811ceb6459c": {
+            "name": "EMERALD 0",
+            "rgbhex": "#1C4746",
+            "aspects": {
+                "satin": {
+                    "ref": "84875174",
+                    "url": "https://www.leroymerlin.fr/reflm/84875174"
+                },
+                "velor": {
+                    "ref": "84865092",
+                    "url": "https://www.leroymerlin.fr/reflm/84865092"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "37f397f6-908c-46eb-8851-f12adefb4e41"
+            ],
+            "complementary_colors": []
+        },
+        "e0ab3b66-be20-4625-a0ec-4ffc961532b6": {
+            "name": "VERT PINEDE",
+            "rgbhex": "#435751",
+            "aspects": {
+                "velor": {
+                    "ref": "85364561",
+                    "url": "https://www.leroymerlin.fr/reflm/85364561"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "f3d60d8d-ee5e-44e1-97da-9c0add10dd15",
+                "11ae60f1-410e-456f-a1c6-6f53d0b580c3",
+                "bd02f2da-2b6f-4425-b8b2-5c3416475f3c",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ],
+            "complementary_colors": []
+        },
+        "f3d60d8d-ee5e-44e1-97da-9c0add10dd15": {
+            "name": "EXOTIC 1",
+            "rgbhex": "#315D54",
+            "aspects": {
+                "satin": {
+                    "ref": "84875195",
+                    "url": "https://www.leroymerlin.fr/reflm/84875195"
+                },
+                "matt": {
+                    "ref": "84864848",
+                    "url": "https://www.leroymerlin.fr/reflm/84864848"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "e0ab3b66-be20-4625-a0ec-4ffc961532b6",
+                "11ae60f1-410e-456f-a1c6-6f53d0b580c3",
+                "bd02f2da-2b6f-4425-b8b2-5c3416475f3c",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ],
+            "complementary_colors": []
+        },
+        "11ae60f1-410e-456f-a1c6-6f53d0b580c3": {
+            "name": "VERT ORGANIQUE",
+            "rgbhex": "#5F7873",
+            "aspects": {
+                "velor": {
+                    "ref": "85364498",
+                    "url": "https://www.leroymerlin.fr/reflm/85364498"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "e0ab3b66-be20-4625-a0ec-4ffc961532b6",
+                "f3d60d8d-ee5e-44e1-97da-9c0add10dd15",
+                "bd02f2da-2b6f-4425-b8b2-5c3416475f3c",
+                "d9ea7a30-cf77-41c2-b2d5-06d70190111d"
+            ],
+            "complementary_colors": []
+        },
+        "37f397f6-908c-46eb-8851-f12adefb4e41": {
+            "name": "VERT CELESTE",
+            "rgbhex": "#BFCBC1",
+            "aspects": {
+                "velor": {
+                    "ref": "85364462",
+                    "url": "https://www.leroymerlin.fr/reflm/85364462"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "6ee1b649-21f0-48ba-bfae-1f6fc01ca218"
+            ],
+            "complementary_colors": []
+        },
+        "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9": {
+            "name": "VERT CANOPEE",
+            "rgbhex": "#738670",
+            "aspects": {
+                "velor": {
+                    "ref": "85364538",
+                    "url": "https://www.leroymerlin.fr/reflm/85364538"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "648ae703-ccc0-4910-abde-a95ce2ae350c",
+                "7769d980-af5d-415c-8a1e-244b599de2f8",
+                "fe263ae2-16d6-4c9e-810b-46284789a288",
+                "aa845c97-ac9e-42fc-9e33-30af4ea23296"
+            ],
+            "complementary_colors": []
+        },
+        "7769d980-af5d-415c-8a1e-244b599de2f8": {
+            "name": "BALI 2",
+            "rgbhex": "#849D7A",
+            "aspects": {
+                "satin": {
+                    "ref": "84875141",
+                    "url": "https://www.leroymerlin.fr/reflm/84875141"
+                },
+                "matt": {
+                    "ref": "84864801",
+                    "url": "https://www.leroymerlin.fr/reflm/84864801"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "648ae703-ccc0-4910-abde-a95ce2ae350c",
+                "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                "fe263ae2-16d6-4c9e-810b-46284789a288",
+                "aa845c97-ac9e-42fc-9e33-30af4ea23296"
+            ],
+            "complementary_colors": []
+        },
+        "aa845c97-ac9e-42fc-9e33-30af4ea23296": {
+            "name": "VERT COLINE",
+            "rgbhex": "#8A9A81",
+            "aspects": {
+                "velor": {
+                    "ref": "85364471",
+                    "url": "https://www.leroymerlin.fr/reflm/85364471"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                "7769d980-af5d-415c-8a1e-244b599de2f8",
+                "fe263ae2-16d6-4c9e-810b-46284789a288",
+                "0953273f-2b0c-4f6d-89a4-4172f05a0a39"
+            ],
+            "complementary_colors": []
+        },
+        "3897f304-b59c-4ab8-b447-9d3c9713b02c": {
+            "name": "SIERRA 2",
+            "rgbhex": "#696B4D",
+            "aspects": {
+                "satin": {
+                    "ref": "84875193",
+                    "url": "https://www.leroymerlin.fr/reflm/84875193"
+                },
+                "velor": {
+                    "ref": "84865118",
+                    "url": "https://www.leroymerlin.fr/reflm/84865118"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                "8b7c04df-8e69-43d5-b62b-21c9e7da2e34"
+            ],
+            "complementary_colors": []
+        },
+        "43bc5c4d-7714-4a92-afac-9ec1578cefc9": {
+            "name": "VERT BOISE",
+            "rgbhex": "#6D6544",
+            "aspects": {
+                "velor": {
+                    "ref": "85364450",
+                    "url": "https://www.leroymerlin.fr/reflm/85364450"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "3897f304-b59c-4ab8-b447-9d3c9713b02c",
+                "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                "8b7c04df-8e69-43d5-b62b-21c9e7da2e34"
+            ],
+            "complementary_colors": []
+        },
+        "705127d1-f623-4a7e-80ce-6342d93db3f7": {
+            "name": "FOREST 3",
+            "rgbhex": "#9A9D85",
+            "aspects": {
+                "satin": {
+                    "ref": "82735040",
+                    "url": "https://www.leroymerlin.fr/reflm/82735040"
+                },
+                "velor": {
+                    "ref": "84865111",
+                    "url": "https://www.leroymerlin.fr/reflm/82735040"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                "8b7c04df-8e69-43d5-b62b-21c9e7da2e34",
+                "331d3098-5389-493c-ab64-cfac979de4cb"
+            ],
+            "complementary_colors": []
+        },
+        "331d3098-5389-493c-ab64-cfac979de4cb": {
+            "name": "FOREST 6",
+            "rgbhex": "#D6DFB4",
+            "aspects": {
+                "satin": {
+                    "ref": "80041220",
+                    "url": "https://www.leroymerlin.fr/reflm/80041220"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                "8b7c04df-8e69-43d5-b62b-21c9e7da2e34"
+            ],
+            "complementary_colors": []
+        },
+        "d02cb146-2e8a-4cf7-9a7f-02a64fc2b556": {
+            "name": "PAMPA 4",
+            "rgbhex": "#A59977",
+            "aspects": {
+                "satin": {
+                    "ref": "84875140",
+                    "url": "https://www.leroymerlin.fr/reflm/84875140"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "fe4acc5d-c89f-418c-a789-582d2573d371",
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd",
+                "12d7c593-b903-4949-9fac-92ca3064ba54",
+                "589013da-b642-4fb4-9f90-3672b7f9c652"
+            ],
+            "complementary_colors": []
+        },
+        "d1565af4-9fd7-4092-8215-6a591553e894": {
+            "name": "Bistro 6",
+            "rgbhex": "#E9D4CA",
+            "aspects": {
+                "matt": {
+                    "ref": "84316386",
+                    "url": "https://www.leroymerlin.fr/reflm/84316386"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "26aed538-fffc-4b8b-ba77-ec128dc6e86a",
+                "41126f96-5207-4bbf-9887-a8d2557ab4f5",
+                "cf0e0c8b-6600-4603-abe5-5b3cd9196c97"
+            ],
+            "complementary_colors": []
+        },
+        "589013da-b642-4fb4-9f90-3672b7f9c652": {
+            "name": "PAMPA 5",
+            "rgbhex": "#BABAA4",
+            "aspects": {
+                "satin": {
+                    "ref": "82735032",
+                    "url": "https://www.leroymerlin.fr/reflm/82735032"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "fe4acc5d-c89f-418c-a789-582d2573d371",
+                "ae6dbb4e-6df9-4324-b5fa-5a73300700dd",
+                "12d7c593-b903-4949-9fac-92ca3064ba54"
+            ],
+            "complementary_colors": []
+        },
+        "23d1d485-547a-4dd0-bddb-ea47d0cd157d": {
+            "name": "PECAN 4",
+            "rgbhex": "#B88E4D",
+            "aspects": {
+                "satin": {
+                    "ref": "84874994",
+                    "url": "https://www.leroymerlin.fr/reflm/84874994"
+                },
+                "velor": {
+                    "ref": "84865117",
+                    "url": "https://www.leroymerlin.fr/reflm/84874994"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "b31d705d-6c83-4b66-8a1f-59aa1e175967",
+                "01ed000f-22cf-4fad-bde6-4a378a4d52ba"
+            ],
+            "complementary_colors": []
+        },
+        "b31d705d-6c83-4b66-8a1f-59aa1e175967": {
+            "name": "JAUNE POLLEN",
+            "rgbhex": "#B68A3E",
+            "aspects": {
+                "velor": {
+                    "ref": "85364534",
+                    "url": "https://www.leroymerlin.fr/reflm/85364534"
+                }
+            },
+            "brand_id": "ENVIE",
+            "adjacent_colors": [
+                "23d1d485-547a-4dd0-bddb-ea47d0cd157d",
+                "01ed000f-22cf-4fad-bde6-4a378a4d52ba"
+            ],
+            "complementary_colors": []
+        },
+        "01ed000f-22cf-4fad-bde6-4a378a4d52ba": {
+            "name": "GINGER 4",
+            "rgbhex": "#DBB960",
+            "aspects": {
+                "satin": {
+                    "ref": "84875234",
+                    "url": "https://www.leroymerlin.fr/reflm/84875234"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "23d1d485-547a-4dd0-bddb-ea47d0cd157d",
+                "b31d705d-6c83-4b66-8a1f-59aa1e175967"
+            ],
+            "complementary_colors": []
+        },
+        "be2ccfa1-f7e1-454c-9892-2cc7377bd13f": {
+            "name": "BANANA 6",
+            "rgbhex": "#F9E397",
+            "aspects": {},
+            "brand_id": "LUXENS",
+            "adjacent_colors": [],
+            "complementary_colors": []
+        },
+        "8b5c4320-c0d0-45b4-aba3-7988053a1bd2": {
+            "name": "SOLEMIO 1",
+            "rgbhex": "#DE9E36",
+            "aspects": {
+                "satin": {
+                    "ref": "84875260",
+                    "url": "https://www.leroymerlin.fr/reflm/84875260"
+                },
+                "velor": {
+                    "ref": "84865122",
+                    "url": "https://www.leroymerlin.fr/reflm/84875260"
+                }
+            },
+            "brand_id": "LUXENS",
+            "adjacent_colors": [
+                "3526ea3e-2764-49e8-9ecf-551c18e15643"
+            ],
+            "complementary_colors": []
+        },
+        "4b773b53-6023-4c0f-bc69-c9bcfb0eb044": {
+            "name": "Mint 1",
+            "rgbhex": "#007560",
+            "aspects": {
+                "satin": {
+                    "ref": "84875245",
+                    "url": "https://www.leroymerlin.fr/reflm/84875245"
+                }
+            },
+            "brand_id": null,
+            "adjacent_colors": [
+                "d422b4d4-ca9e-4cf5-aa4f-d811ceb6459c",
+                "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                "37f397f6-908c-46eb-8851-f12adefb4e41"
+            ],
+            "complementary_colors": []
+        }
+    },
+    "aspects": {
+        "matt": {
+            "name": "Mat",
+            "description": "Estompe les défauts et apporte une ambiance feutrée. Aucun reflet."
+        },
+        "satin": {
+            "name": "Satin",
+            "description": "Reflète la lumière et garanti une résistance de la peinture."
+        },
+        "velor": {
+            "name": "Velours",
+            "description": "Reflète légèrement la lumière. Aspect doux et soyeux. Compromis idéal entre l'esthétisme du Mat et la résistance du Satin."
+        }
+    },
+    "palettes": [
+        {
+            "name": "Blanc",
+            "colors": [
+                [
+                    "29729dea-a349-47e2-a049-77d1d8ece2be",
+                    "4adedc29-cd72-48b8-85c6-9f04b12ceaf8"
+                ],
+                [
+                    "7d83662e-72fa-42b6-8979-e402ab2310d0",
+                    "4d62459b-648b-49cf-a5ea-62e2c85c1828"
+                ],
+                [
+                    "d70de0df-7574-4e24-9e5b-54461263f7f9",
+                    "af81f431-facf-41d4-afb2-0cdc87705a46"
+                ],
+                [
+                    "ffbea54d-fd4d-4a55-be4e-849880decab8",
+                    "7c95b1fe-dc86-4226-bdc9-f1ea9696c7bb"
+                ],
+                [
+                    "32e5ade9-ae4a-4aab-8185-02369ff9dd5a",
+                    null
+                ],
+                [
+                    null,
+                    null
+                ]
+            ],
+            "preview_rgbhex": "#ffffff"
+        },
+        {
+            "name": "Beige",
+            "colors": [
+                [
+                    "e19ccf4b-f256-40ae-97d1-705ca54e7b64",
+                    "bec20016-6974-4bf9-9715-92670418d093"
+                ],
+                [
+                    "3bd66b8a-42a7-4081-b8dd-ee3622523711",
+                    "9bea77a9-2129-4e75-865b-80a45d2b8f4b"
+                ],
+                [
+                    "e0a9c32e-ad9b-4716-9217-8d67e59a44ca",
+                    "b3e2b7d6-7e6d-4cc1-9ddb-52260cd98cdd"
+                ],
+                [
+                    "266fe270-c88c-4c84-8fbf-6cf36373a4ea",
+                    "f0334915-05bb-4186-8ac0-c1a4d81ec6ae"
+                ],
+                [
+                    "61fa9a80-d4a9-464d-9404-e6eb585c9efe",
+                    "a872e0a4-6e89-45c5-a59c-31541902aaec"
+                ],
+                [
+                    "80d241ca-4227-4dc8-b630-b02582529205",
+                    "2472d035-2130-491a-934d-676e1f8eac4b"
+                ]
+            ],
+            "preview_rgbhex": "#CCC7A9"
+        },
+        {
+            "name": "Marron",
+            "colors": [
+                [
+                    "94cb2bec-149e-43fb-964a-44921e14ea2a",
+                    "6b821e6c-f256-43c7-a86c-7f9f026ee120",
+                    "9988aeb6-2ec0-4e9a-a46c-63deb90322a9",
+                    "6b726bbf-ffb7-45f4-bbf3-378e5de66db0"
+                ],
+                [
+                    "307fe051-8908-4fea-9d2b-f21b3662da43",
+                    "c9793c6a-b1d2-446c-bdc2-ddce420d7a68",
+                    "cbf7c4da-5be4-4c1b-849d-2d470635258e",
+                    "fdfd122f-c522-4f53-86ce-8433a9657c0e"
+                ],
+                [
+                    "7c24e945-3147-489e-9597-64feaee373e7",
+                    "58e8e35b-5b1c-4b4c-aee3-96a2eacb81df",
+                    "8958f818-e934-4c99-b826-de1c48063980",
+                    "319fa828-523a-4953-998c-28540b68c6d6"
+                ],
+                [
+                    "33586940-5448-45f3-9780-138dd2b9d43e",
+                    "ec2aba55-2e0a-4e68-b432-40a5c2292e6b",
+                    "ec4c89d1-1b71-4632-b799-7573acf0cb0c",
+                    "bf49d6cd-e193-436d-a782-85757eafd27c"
+                ],
+                [
+                    "5bc1d4c4-0626-48a6-adf7-efeff8651a1d",
+                    "88c2eb9c-72c1-41cc-8d0a-33bd4fb1d47d",
+                    "fce32df2-e827-411c-a755-0009339213f5",
+                    "9d4a3ec9-8fe2-4a2c-9f09-40598fb6d340"
+                ],
+                [
+                    "21225e9b-391b-4277-aab8-c66bb37f1834",
+                    "8dbd739e-6642-41ae-b2d8-b14b28b4548d",
+                    "a7649e4b-62d2-4065-92dc-c58e5824f5d1",
+                    "8199444d-8e1d-46e3-9c41-6406ca80226e"
+                ]
+            ],
+            "preview_rgbhex": "#7F2B2B"
+        },
+        {
+            "name": "Noir/Gris",
+            "colors": [
+                [
+                    "44329e5b-c564-4136-b8d4-a1046eee5bd5",
+                    "c51237e8-2755-42f4-be16-f3b200bfeae7",
+                    "989a9dc0-af34-4e87-9382-423173327a00",
+                    "e5f5fe6a-e73e-4622-9506-0ea3b5971a99",
+                    "33a763fd-54f1-4fca-ad04-a9c8a2c4f154"
+                ],
+                [
+                    "4cccfc47-683b-4ebe-b2d3-e482b55f7150",
+                    "3abd383b-5cd1-42ac-9d1f-83f7c1b57b32",
+                    "97dcf567-9bba-4f3c-98ab-7725a87d43bf",
+                    "95a1d07a-6381-4f62-b8e4-7b168951780f",
+                    "0b8106d9-4334-4c7f-ad13-558dfc61b079"
+                ],
+                [
+                    "8d3462eb-0c44-4220-96e2-1c8139f6e617",
+                    "32990f63-be68-45b1-94c1-f15615b733eb",
+                    "e0db86b1-bf28-4042-8968-db42cf6ada1e",
+                    "e75abf75-c2c3-4035-b45f-0621fe381a03",
+                    "a40edbc3-21e3-4128-a023-3d6f5076b952"
+                ],
+                [
+                    "731496b1-c5a2-48f1-94a5-15af5e60be2c",
+                    "e5d1c4a5-2191-4888-b0fd-22e81fdb04ef",
+                    "e1f045f1-0543-4169-9a4d-47b0b13c1ca4",
+                    "b7a3880a-2a39-43a2-8fb9-3398b3c9aadf",
+                    "8a1ff4d3-7ee3-42a5-bd3c-c8e3692252c6"
+                ],
+                [
+                    "dd731ade-bf29-4bfa-978c-41e5c60d49ed",
+                    "981b70da-7760-427f-b1a6-0ddcd1b3e878",
+                    "29ae5c4e-ff48-47a2-bc3c-5850780b8f4c",
+                    null,
+                    "cc8975ce-9dd3-4bb7-a472-f95506892159"
+                ],
+                [
+                    null,
+                    null,
+                    "a97b9815-d5fb-4df5-bf2b-43c91c7ac0f1",
+                    null,
+                    "7590c898-813c-46b0-9be6-3bcc3aafbc7e"
+                ]
+            ],
+            "preview_rgbhex": "#666666"
+        },
+        {
+            "name": "Bleu",
+            "colors": [
+                [
+                    "7836acfa-4b6f-4a8b-a9b9-8e752ee31f1e",
+                    "20e8b7aa-35e6-42c6-a60a-4172c2099f05",
+                    "aa2261c2-2704-4654-8f99-9c8c712b37e3",
+                    "ae00e089-7fb4-4652-a7cc-01e360d6dd8c",
+                    "ce24b395-20ce-4a24-b73c-6f11755a3db5"
+                ],
+                [
+                    "9fde5270-3b2a-44ff-bf2d-cc2a66367a1a",
+                    "73eef32e-ea9b-4ae2-8ddb-f8a8790b5b40",
+                    "c6a66207-dc53-476c-a064-686893bbc22d",
+                    "ab488dba-e237-433c-988e-61ace90e1e7d",
+                    "928cb5c9-e3b0-4c57-becb-59e52b596d00"
+                ],
+                [
+                    "24c9e72f-c9a3-4a8a-95fd-97faf310e351",
+                    "e5879814-9d17-4a60-b001-c31354194a05",
+                    "daf5f6d6-53ca-4360-b952-fdb9a77e079a",
+                    "4bbf4796-58ec-4630-bb41-82d3b05155eb",
+                    "6fcc058b-a7bc-49e6-85c0-5f2daa7a429a"
+                ],
+                [
+                    "4c3371db-4d82-448d-806d-bd0ef38657f8",
+                    "c16c926b-03cf-4d2a-af3c-bbc864fe9fb5",
+                    "2c8d6c7b-604f-45d5-a98b-7403f0add867",
+                    "d4999bab-9515-4df5-a544-9c11125349c2",
+                    "657b1911-b423-47ed-aef5-24966ff8555a"
+                ],
+                [
+                    "995652e1-6e6c-4b8a-ae9d-7bce73462f43",
+                    "7ccad9b8-3fbd-41a7-9b6c-bc4f5a9bdf0b",
+                    "ec1eee63-141f-4a3c-90da-c79c64055c3a",
+                    "e8c766d7-2e91-40c1-b8a1-723b635ae2e3",
+                    "8f1cffd0-e2f7-48eb-9d60-96b207ff2078"
+                ],
+                [
+                    "562761eb-f366-410d-8e70-b3d71c7ac670",
+                    "894da900-92a3-4aef-9dbc-ad428bf11ecb",
+                    "7ad3c0ec-3817-409b-896b-e087fe3f0c6d",
+                    "8af709ac-376f-4a29-85a5-21819a1db05e",
+                    "4c136e10-2bf7-44e7-ba36-520cf8fc8fca"
+                ]
+            ],
+            "preview_rgbhex": "#2F508C"
+        },
+        {
+            "name": "Vert",
+            "colors": [
+                [
+                    "3655c6b1-96b4-4e4d-802e-532fcbe5f675",
+                    "d422b4d4-ca9e-4cf5-aa4f-d811ceb6459c",
+                    "e0ab3b66-be20-4625-a0ec-4ffc961532b6",
+                    "648ae703-ccc0-4910-abde-a95ce2ae350c",
+                    "3897f304-b59c-4ab8-b447-9d3c9713b02c",
+                    "d02cb146-2e8a-4cf7-9a7f-02a64fc2b556"
+                ],
+                [
+                    "8c4aa591-1b94-4c5b-85fc-430ab3f046e4",
+                    "4b773b53-6023-4c0f-bc69-c9bcfb0eb044",
+                    "f3d60d8d-ee5e-44e1-97da-9c0add10dd15",
+                    "affa4dd8-e7c8-4820-a3b3-b9c5bc478dd9",
+                    "43bc5c4d-7714-4a92-afac-9ec1578cefc9",
+                    "fe4acc5d-c89f-418c-a789-582d2573d371"
+                ],
+                [
+                    "0b3d3926-fb19-4c65-af13-384fccce5c9c",
+                    "e63741ea-4759-431b-bbc4-92d9ad4e1908",
+                    "11ae60f1-410e-456f-a1c6-6f53d0b580c3",
+                    "7769d980-af5d-415c-8a1e-244b599de2f8",
+                    "624b1b18-7c9b-4fc8-ae8c-e58beb7c5fd7",
+                    "ae6dbb4e-6df9-4324-b5fa-5a73300700dd"
+                ],
+                [
+                    "1b287099-17fc-498b-8b96-ec3b525b0871",
+                    "ea39c5e1-2337-4cd8-a0e5-f107f1676793",
+                    "bd02f2da-2b6f-4425-b8b2-5c3416475f3c",
+                    "fe263ae2-16d6-4c9e-810b-46284789a288",
+                    "705127d1-f623-4a7e-80ce-6342d93db3f7",
+                    "12d7c593-b903-4949-9fac-92ca3064ba54"
+                ],
+                [
+                    "504d2638-c6aa-44dd-9cac-5b71f1165e24",
+                    "37f397f6-908c-46eb-8851-f12adefb4e41",
+                    "d9ea7a30-cf77-41c2-b2d5-06d70190111d",
+                    "aa845c97-ac9e-42fc-9e33-30af4ea23296",
+                    "8b7c04df-8e69-43d5-b62b-21c9e7da2e34",
+                    "589013da-b642-4fb4-9f90-3672b7f9c652"
+                ],
+                [
+                    null,
+                    "6ee1b649-21f0-48ba-bfae-1f6fc01ca218",
+                    null,
+                    "0953273f-2b0c-4f6d-89a4-4172f05a0a39",
+                    "331d3098-5389-493c-ab64-cfac979de4cb",
+                    null
+                ]
+            ],
+            "preview_rgbhex": "#A6CE40"
+        },
+        {
+            "name": "Jaune",
+            "colors": [
+                [
+                    "23d1d485-547a-4dd0-bddb-ea47d0cd157d",
+                    "15be86c3-af1e-4a0e-bf49-0e3b75c5f567",
+                    "3526ea3e-2764-49e8-9ecf-551c18e15643"
+                ],
+                [
+                    "b31d705d-6c83-4b66-8a1f-59aa1e175967",
+                    "cb54c1db-e351-4c5f-842c-1e5c589c2c8d",
+                    "8b5c4320-c0d0-45b4-aba3-7988053a1bd2"
+                ],
+                [
+                    "01ed000f-22cf-4fad-bde6-4a378a4d52ba",
+                    "61020672-afac-412e-9304-7f08c55bfb9a",
+                    null
+                ],
+                [
+                    null,
+                    "b9035768-e61d-4683-9d36-297df60e2242",
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null
+                ]
+            ],
+            "preview_rgbhex": "#EDE217"
+        },
+        {
+            "name": "Orange",
+            "colors": [
+                [
+                    "253d194b-7b97-4b25-92cf-f10a3db8a9dd"
+                ],
+                [
+                    "7961cde0-d122-430a-b15a-a91966664fb1"
+                ],
+                [
+                    "9e636222-0d8c-49b6-bb23-a9b79b7bb22c"
+                ],
+                [
+                    "8afaf779-28e7-4dc2-bd20-590c22dacb35"
+                ],
+                [
+                    "a8df3523-230b-43a0-88b2-2c5940ca11bd"
+                ],
+                [
+                    "92cd5d46-ea86-4d87-a083-64c5ebed20ad"
+                ]
+            ],
+            "preview_rgbhex": "#ED712F"
+        },
+        {
+            "name": "Rouge",
+            "colors": [
+                [
+                    "3f80b066-7ebe-48b5-8ba8-39e9187eb8e1",
+                    "bdddd3ca-b1f6-4c81-9e86-317f12095670",
+                    "81c6ba73-0c72-4609-93c5-30f0681db32c"
+                ],
+                [
+                    "4530ff6f-bf7f-4b32-bd23-18f6fe67385c",
+                    "7925e971-964f-4d7c-9b9f-3c6aaa5fd117",
+                    "26aed538-fffc-4b8b-ba77-ec128dc6e86a"
+                ],
+                [
+                    "37a98658-30b3-4c77-ae36-1cb515ae8fed",
+                    "b980d53e-2cef-4886-b0d3-7f7813d89da8",
+                    "41126f96-5207-4bbf-9887-a8d2557ab4f5"
+                ],
+                [
+                    "a27e4e23-a3e0-485b-8964-c944a8598e19",
+                    null,
+                    "cf0e0c8b-6600-4603-abe5-5b3cd9196c97"
+                ],
+                [
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    "ce2ba626-080a-4858-8b9b-b4c8b7846dea",
+                    "d1565af4-9fd7-4092-8215-6a591553e894"
+                ]
+            ],
+            "preview_rgbhex": "#D82735"
+        },
+        {
+            "name": "Rose",
+            "colors": [
+                [
+                    "79cd87c5-af60-42ef-8144-1a1b53e9fcce",
+                    "76edba13-d14c-4bb3-9584-79279d994163",
+                    "4ef415c6-4d12-4a9d-9b85-24511754e7fe"
+                ],
+                [
+                    "d4bb5a54-c4ef-4735-8027-f1d3fc2db963",
+                    "a988b462-a69d-4b23-ac5e-c882b95a4b23",
+                    "c66784fd-6ea8-40ea-aaa8-939fb07425b1"
+                ],
+                [
+                    "cdb36c2d-a1e0-4bdb-a1fd-308a3227286a",
+                    "3fb55544-1b02-40be-9ae9-88fae65f2802",
+                    "bf8e1e5c-4988-4817-8bce-c3fcc25edf16"
+                ],
+                [
+                    "6efccad9-aa47-4aca-8923-c255a99bc295",
+                    "80a4203a-ae1e-451e-a576-d87f8d9050ac",
+                    "f966675d-dc6a-408f-957f-aaa7e491b538"
+                ],
+                [
+                    "96e30fab-636a-413d-b81c-86cea7326bc9",
+                    "99bee8df-4652-4f23-87e5-9f71d381907e",
+                    null
+                ],
+                [
+                    "5b502b85-1726-41ce-95de-141f1f47a4c8",
+                    null,
+                    null
+                ]
+            ],
+            "preview_rgbhex": "#EDA1C7"
+        },
+        {
+            "name": "Violet",
+            "colors": [
+                [
+                    "ec3cfcad-fc16-4286-9ee8-ac79d7d61d45",
+                    "0da175ca-6f26-4963-830c-4667e0dcf66c"
+                ],
+                [
+                    "04f70c07-e94e-4366-b523-916534e82cdf",
+                    "415893db-72c2-4413-9dd6-7a89ae94384f"
+                ],
+                [
+                    "77f96b1a-e803-4ed5-ba45-73b6b4ea2412",
+                    "ec6a053e-985d-456f-80a3-632324b753f3"
+                ],
+                [
+                    "d26b8665-a5d5-4b9c-a7d2-b64f87ada626",
+                    "6c6cbdac-068b-4201-a234-71b9a7b41019"
+                ],
+                [
+                    "217cdd96-c9fb-4577-82e0-0392eb4cf357",
+                    null
+                ],
+                [
+                    "462b5a26-5d44-432b-984e-77a06b6543da",
+                    null
+                ]
+            ],
+            "preview_rgbhex": "#6C2EA5"
+        }
+    ]
+}
